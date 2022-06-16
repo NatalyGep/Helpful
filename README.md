@@ -1,5 +1,5 @@
 # Полезная информация с разных источников
-№1
+##1
 
 Обзор редакторов для верстальщика. - https://htmlacademy.ru/blog/40-editors-for-the-coders
 
@@ -25,5 +25,25 @@ https://www.gitkraken.com/
 Интерактивный тур, который познакомит вас с основами. - https://githowto.com/ru
 Коллекция часто задаваемых вопросов. - http://firstaidgit.ru/#/
 Как оформлять коммиты, чтобы потом не было больно. - https://habrahabr.ru/company/Voximplant/blog/276695/
+##2
+О разметке:
+Спецификация HTML - https://www.w3.org/TR/html/
+Спецификация HTML, перевод - http://spec.piraruco.com/html5/index.htm
+Зачем нужны заголовки. - https://htmlacademy.ru/shorts/7
+Секции в футере. - https://htmlacademy.ru/shorts/3
+Ссылки вокруг блоков. - https://htmlacademy.ru/shorts/1
+W3C или WHATWG. - https://htmlacademy.ru/shorts/11
+Обсуждения о правильном использовании тегов в комментариях. - http://html5doctor.com/computer-says-no-to-html5-document-outline/
+Видеозапись доклада «Семантика или смерть». - https://events.yandex.ru/lib/talks/1520/
+Слова, часто используемые в CSS-классах. - https://github.com/yoksel/common-words
+Как отличить контентное изображение от декоративного. - https://htmlacademy.ru/blog/153-content-or-decor-img
 
+Статьи о стилях кодирования:
+Ставить или не ставить закрывающий слеш в одиночных тегах. - http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html
+Кодгайд: почему, зачем и как? - https://htmlacademy.ru/blog/62-codeguide-why-what-and-how
+
+Список кодгайдов:
+Стиль кода Академии HTML. - http://codeguide.academy/html-css.html
+Code Guide by @mdo. - http://codeguide.co/
+Google HTML/CSS Style Guide (перевод). - https://google.github.io/styleguide/htmlcssguide.html
 
