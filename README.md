@@ -49,3 +49,38 @@ W3C или WHATWG. - https://htmlacademy.ru/shorts/11
 Code Guide by @mdo. - http://codeguide.co/
 Google HTML/CSS Style Guide (перевод). - https://google.github.io/styleguide/htmlcssguide.html
 
+##3
+
+Графические редакторы:
+Adobe Photoshop: план для фотографов. - https://www.adobe.com/ru/creativecloud/plans.html
+Adobe Illustrator: план на отдельное приложение. - https://www.adobe.com/ru/creativecloud/plans.html?single_app=illustrator
+Adobe Export Assets. - https://www.adobe.com/ru/creativecloud/extract.html
+Sketch. - https://www.sketchapp.com/
+Zeplin. - https://zeplin.io/
+Avocode. - https://avocode.com/
+
+Статьи:
+Фотошоп для верстальщика. - https://htmlacademy.ru/blog/51-photoshop-for-the-coders
+Альтернативный текст для изображений. - Альтернативный текст для изображений.
+О чём должен помнить веб-дизайнер. - https://github.com/nicothin/web-design
+15 самых употребляемых типографических терминов. - https://godesigner.ru/posts/view/175/
+
+Растровые и векторные изображения:
+Растровая и векторная графика. - https://htmlacademy.ru/blog/111-rastr-vector
+Форматы изображений. - https://htmlacademy.ru/blog/113-image-formats
+Как отличить контентное изображение от декоративного. - https://htmlacademy.ru/blog/153-content-or-decor-img
+Про PNG. - https://www.artlebedev.ru/technogrette/img/png-1/
+Формат SVG. - http://css.yoksel.ru/svg/
+SVG: группировка и переиспользование элементов. - http://css.yoksel.ru/svg-groups-use/
+Как правильно вставлять SVG. - https://htmlacademy.ru/shorts/4
+
+Оптимизация растровых и векторных изображений:
+Оптимизация изображений. - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru
+Веб-сервисы: 
+ https://tinypng.com/
+ http://optimizilla.com/
+ https://jakearchibald.github.io/svgomg/
+Программы:
+ImageOptim для macOS. - https://imageoptim.com/mac
+FileOptimizer для Windows. - https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer
+
