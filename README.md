@@ -25,7 +25,9 @@ https://www.gitkraken.com/
 Интерактивный тур, который познакомит вас с основами. - https://githowto.com/ru
 Коллекция часто задаваемых вопросов. - http://firstaidgit.ru/#/
 Как оформлять коммиты, чтобы потом не было больно. - https://habrahabr.ru/company/Voximplant/blog/276695/
+
 ##2
+
 О разметке:
 Спецификация HTML - https://www.w3.org/TR/html/
 Спецификация HTML, перевод - http://spec.piraruco.com/html5/index.htm
