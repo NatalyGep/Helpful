@@ -119,4 +119,6 @@ HTML Шорты:
 Что нужно знать, чтобы готовить свои черновики спецификаций. - https://www.youtube.com/watch?v=Z9of2cj28hY
 А что если мы долетим и там будет всё? - https://vk.com/sergeytovarov?z=video1238505_456239150%2Fvideos1238505%2Fpl_1238505_-2
 
+Поддержка в CSS шрифтов: https://www.cssfontstack.com/
+
 
