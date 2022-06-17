@@ -120,5 +120,6 @@ HTML Шорты:
 А что если мы долетим и там будет всё? - https://vk.com/sergeytovarov?z=video1238505_456239150%2Fvideos1238505%2Fpl_1238505_-2
 
 Поддержка в CSS шрифтов: https://www.cssfontstack.com/
+Генерируем ttf в woff форматы: https://www.fontsquirrel.com/tools/webfont-generator 
 
 
