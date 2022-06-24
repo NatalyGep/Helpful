@@ -122,4 +122,10 @@ HTML Шорты:
 Поддержка в CSS шрифтов: https://www.cssfontstack.com/
 Генерируем ttf в woff форматы: https://www.fontsquirrel.com/tools/webfont-generator 
 
+##6
+
+Переводы и статьи CSS-live Илья Стрельцын и Максим Усачёв - https://css-live.ru/o-nas
+Коллекция примеров "Grid by example" - https://gridbyexample.com/
+Experimental layout lab - https://labs.jensimmons.com/
+
 
