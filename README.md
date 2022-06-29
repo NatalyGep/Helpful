@@ -439,7 +439,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 
 ##Компетенция верстальщика Udemy
 
--[Шпаргалкa по работе с Emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
--[Самоучитель от W3](https://www.w3schools.com/)
--[Подбор цвета](https://colorscheme.ru/)
--[FonrSquirrel](https://www.fontsquirrel.com/)
+- [Шпаргалкa по работе с Emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+- [Самоучитель от W3](https://www.w3schools.com/)
+- [Подбор цвета](https://colorscheme.ru/)
+- [FonrSquirrel генератор шрифтов](https://www.fontsquirrel.com/)
