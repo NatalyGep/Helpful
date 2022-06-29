@@ -443,3 +443,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Самоучитель от W3](https://www.w3schools.com/)
 - [Подбор цвета](https://colorscheme.ru/)
 - [FonrSquirrel генератор шрифтов](https://www.fontsquirrel.com/)
+- [Google fonts](https://fonts.google.com/)
