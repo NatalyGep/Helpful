@@ -444,3 +444,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Подбор цвета](https://colorscheme.ru/)
 - [FonrSquirrel генератор шрифтов](https://www.fontsquirrel.com/)
 - [Google fonts](https://fonts.google.com/)
+- [Бесплатный редактор Krita](https://krita.org/en/)
