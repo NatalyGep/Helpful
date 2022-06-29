@@ -447,3 +447,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Бесплатный редактор Krita](https://krita.org/en/)
 - [Онлайн-конвертер](https://www.online-convert.com/ru)
 - [Коллекция иконок (вставить через скрипт и тег)](https://fontawesome.com/)
+- [nth-child calculator](https://css-tricks.com/examples/nth-child-tester/)
