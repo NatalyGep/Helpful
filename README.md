@@ -437,4 +437,9 @@ Experimental layout lab - https://labs.jensimmons.com/
 Английский:
 Начинай учить английский в Skyeng и получи годовой доступ ко всем курсам HTML Academy - http://school.skyeng.ru/htmlacademy/
 
-##12
+##Компетенция верстальщика Udemy
+
+-[Шпаргалкa по работе с Emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
+-[Самоучитель от W3](https://www.w3schools.com/)
+-[Подбор цвета](https://colorscheme.ru/)
+-[FonrSquirrel](https://www.fontsquirrel.com/)
