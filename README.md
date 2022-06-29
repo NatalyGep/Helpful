@@ -448,3 +448,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Онлайн-конвертер](https://www.online-convert.com/ru)
 - [Коллекция иконок (вставить через скрипт и тег)](https://fontawesome.com/)
 - [nth-child calculator](https://css-tricks.com/examples/nth-child-tester/)
+- [Mozilla lean](https://developer.mozilla.org/ru/docs/Learn)
