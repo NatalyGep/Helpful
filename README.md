@@ -446,4 +446,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Google fonts](https://fonts.google.com/)
 - [Бесплатный редактор Krita](https://krita.org/en/)
 - [Онлайн-конвертер](https://www.online-convert.com/ru)
-- [Коллекция иконок (вставить через тег)](https://fontawesome.com/)
+- [Коллекция иконок (вставить через скрипт и тег)](https://fontawesome.com/)
