@@ -452,3 +452,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Бесплатные PSD-шаблоны](http://psd-html-css.ru/)
 - [Методология БЭМ](https://ru.bem.info/)
 - [Сайт для проверки регулярных выражений](https://regex101.com/)
+- [Reset CSS](https://gist.github.com/DavidWells/18e73022e723037a50d6)
