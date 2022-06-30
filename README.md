@@ -450,3 +450,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [nth-child calculator](https://css-tricks.com/examples/nth-child-tester/)
 - [Mozilla lean](https://developer.mozilla.org/ru/docs/Learn)
 - [Бесплатные PSD-шаблоны](http://psd-html-css.ru/)
+- [Методология БЭМ](https://ru.bem.info/)
