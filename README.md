@@ -455,3 +455,5 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Reset CSS](https://gist.github.com/DavidWells/18e73022e723037a50d6)
 - [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 - [Анимация Animate](https://animista.net/)
+- [Sass oficial](https://sass-lang.com/)
+- [Sass Русский](https://sass-scss.ru/guide/)
