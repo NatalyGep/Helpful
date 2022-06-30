@@ -451,3 +451,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Mozilla lean](https://developer.mozilla.org/ru/docs/Learn)
 - [Бесплатные PSD-шаблоны](http://psd-html-css.ru/)
 - [Методология БЭМ](https://ru.bem.info/)
+- [Сайт для проверки выражений](https://regex101.com/)
