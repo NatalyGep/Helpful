@@ -453,3 +453,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Методология БЭМ](https://ru.bem.info/)
 - [Сайт для проверки регулярных выражений](https://regex101.com/)
 - [Reset CSS](https://gist.github.com/DavidWells/18e73022e723037a50d6)
+- [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
