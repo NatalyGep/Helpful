@@ -466,6 +466,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 ##Нетология 
 - [История версий JavaScript](https://en.wikipedia.org/wiki/ECMAScript#Versions)
 - [Сравнение браузерных движков](https://en.wikipedia.org/wiki/Comparison_of_browser_engines)
+- [RSS читалка онлайн](https://feedly.com/)
 - [geddski про разницу между width и flex-basis](https://mastery.games/post/the-difference-between-width-and-flex-basis/)
 - [List Apart про область видимости в JS](https://alistapart.com/article/fixing-variable-scope-issues-with-ecmascript-6/)
 - [Как работает значение auto](https://ishadeed.com/article/auto-css/)
