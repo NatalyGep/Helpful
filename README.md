@@ -471,4 +471,5 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [List Apart про область видимости в JS](https://alistapart.com/article/fixing-variable-scope-issues-with-ecmascript-6/)
 - [Как работает значение auto](https://ishadeed.com/article/auto-css/)
 - [Флексбокс и абсолютное позиционирование](https://chenhuijing.com/blog/flexbox-and-absolute-positioning/)
+- [Современная соц. сеть на английском для веб-разработчиков](https://dev.to/)
 
