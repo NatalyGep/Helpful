@@ -521,3 +521,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Шпаргалка по Flexbox css](https://tpverstak.ru/flex-cheatsheet/)
 - [Функции плавности анимации css](https://easings.net/ru)
 - [Flexboxgrid](https://evgenyrodionov.github.io/flexboxgrid2/0
+- [Темы для Bootstrap](https://themes.getbootstrap.com/)
