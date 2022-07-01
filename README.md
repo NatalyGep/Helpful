@@ -494,4 +494,13 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [html5book.ru](https://html5book.ru/)
 - [css-live.ru](https://css-live.ru/)
 - [Один из самых известных сайтов про вёрстку](https://css-tricks.com/)
+- [Еще один знаменитый источник информации о верстке smashingmagazine](https://www.smashingmagazine.com/)
+- [Справочные материалы от Google](https://developers.google.com/)
+- [Новый сайт от Google с материалами про веб разработку](https://web.dev/)
+- [Один из самых популярных справочников по веб разработке. Изначально делался Мозиллой.](https://developer.mozilla.org/ru/)
+- [Отличный учебник по JS](https://javascript.info/)
+- [Отличный учебник по JS русская версия](https://learn.javascript.ru/)
+- [Рецепты и статьи по веб разработке](https://enmascript.com/)
+- [Актуальные CSS спецификации.](https://www.w3.org/)
+- [Актуальные HTML спецификации](https://html.spec.whatwg.org/multipage/)
 
