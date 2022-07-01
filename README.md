@@ -523,3 +523,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Flexboxgrid](https://evgenyrodionov.github.io/flexboxgrid2/0
 - [Темы для Bootstrap](https://themes.getbootstrap.com/)
 - [Примеры сайтов на bootstrap](https://expo.getbootstrap.com/)
+- [Бесплатный хост netlify](https://app.netlify.com/)
