@@ -507,3 +507,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [SQL: Задачи и решения](http://www.sql-tutorial.ru/ru/content.html)
 - [Крупнейший веб архив](https://web.archive.org/)
 - [Гугл Кэш (после двоеточия нужно поставить адрес пропавшей страницы)](http://webcache.googleusercontent.com/search?q=cache:)
+- [Бесплатный редактор изображений, работает с psd](https://www.photopea.com/)
