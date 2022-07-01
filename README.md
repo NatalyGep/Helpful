@@ -505,4 +505,5 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Актуальные HTML спецификации](https://html.spec.whatwg.org/multipage/)
 - [Postman: Инструмент для тестировщиков](https://www.guru99.com/postman-tutorial.html)
 - [SQL: Задачи и решения](http://www.sql-tutorial.ru/ru/content.html)
-
+- [Крупнейший веб архив](https://web.archive.org/)
+- [Гугл Кэш (после двоеточия нужно поставить адрес пропавшей страницы)](http://webcache.googleusercontent.com/search?q=cache:)
