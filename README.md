@@ -503,4 +503,6 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Рецепты и статьи по веб разработке](https://enmascript.com/)
 - [Актуальные CSS спецификации.](https://www.w3.org/)
 - [Актуальные HTML спецификации](https://html.spec.whatwg.org/multipage/)
+- [Postman: Инструмент для тестировщиков](https://www.guru99.com/postman-tutorial.html)
+- [SQL: Задачи и решения](http://www.sql-tutorial.ru/ru/content.html)
 
