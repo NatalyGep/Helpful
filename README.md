@@ -520,7 +520,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Шпаргалка по Flexbox css](https://tpverstak.ru/flex-cheatsheet/)
 - [Функции плавности анимации css](https://easings.net/ru)
-- [Flexboxgrid](https://evgenyrodionov.github.io/flexboxgrid2/0
+- [Flexboxgrid](https://evgenyrodionov.github.io/flexboxgrid2/0)
 - [Темы для Bootstrap](https://themes.getbootstrap.com/)
 - [Примеры сайтов на bootstrap](https://expo.getbootstrap.com/)
 - [Бесплатный хост netlify](https://app.netlify.com/)
