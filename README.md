@@ -518,3 +518,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Типографика. Краткий курс](http://www.quickandlazy.appspot.com/)
 - [Cписок HTML-цветов](https://htmlcolorcodes.com/color-names/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Шпаргалка по Flexbox css](https://tpverstak.ru/flex-cheatsheet/)
