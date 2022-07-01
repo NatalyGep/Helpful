@@ -472,4 +472,5 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Как работает значение auto](https://ishadeed.com/article/auto-css/)
 - [Флексбокс и абсолютное позиционирование](https://chenhuijing.com/blog/flexbox-and-absolute-positioning/)
 - [Современная соц. сеть на английском для веб-разработчиков](https://dev.to/)
+- [Популярный коллективный блог на русском Хабр](https://habr.com/ru/all/)
 
