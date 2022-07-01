@@ -461,3 +461,9 @@ Experimental layout lab - https://labs.jensimmons.com/
 
 ##Идеальная верстка под Google
 -[Определяйте фактическую производительность сайта](https://pagespeed.web.dev/)
+
+
+##Нетология 
+- [ История версий JavaScript](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+- [ Сравнение браузерных движков](https://en.wikipedia.org/wiki/Comparison_of_browser_engines)
+
