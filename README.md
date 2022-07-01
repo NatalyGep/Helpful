@@ -509,3 +509,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Гугл Кэш (после двоеточия нужно поставить адрес пропавшей страницы)](http://webcache.googleusercontent.com/search?q=cache:)
 - [Бесплатный редактор изображений, работает с psd](https://www.photopea.com/)
 - [Посмотреть как выглядел сайт Apple в 1997г](http://web.archive.org/web/19970715124703/www.apple.com/)
+- [Про специфичность](https://developer.mozilla.org/ru/docs/Web/CSS/Specificity)
