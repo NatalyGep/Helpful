@@ -508,6 +508,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Крупнейший веб архив](https://web.archive.org/)
 - [Гугл Кэш (после двоеточия нужно поставить адрес пропавшей страницы)](http://webcache.googleusercontent.com/search?q=cache:)
 - [Бесплатный редактор изображений, работает с psd](https://www.photopea.com/)
+- [Вставляем responsive video c youtube](https://css-tricks.com/fluid-width-video/)
 
 
 ##Stepik
