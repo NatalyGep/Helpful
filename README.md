@@ -531,3 +531,4 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Примеры сайтов на bootstrap](https://expo.getbootstrap.com/)
 - [Бесплатный хост netlify](https://app.netlify.com/)
 - [Документация Emmet](https://docs.emmet.io/)
+- [Составить регулярное выражение](https://www.regexpal.com/)
