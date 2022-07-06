@@ -527,3 +527,13 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Мобильные браузеры и их пушистые лапки](https://habr.com/ru/company/zerotech/blog/336172/)
 - [Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/)
 
+### Адаптивная графика 
+
+- [Почему мы не можем делать по-настоящему адаптивные изображения при помощи CSS или JavaScript](https://css-live.ru/articles/pochemu-my-ne-mozhem-delat-po-nastoyashhemu-adaptivnye-izobrazheniya-pri-pomoshhi-css-ili-javascript.html)
+- [Основы адаптивности изображений](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
+- [Automatically art-directed responsive images](https://cloudinary.com/blog/automatically_art_directed_responsive_images)
+- [Сколько нужно верстальщиков, чтобы вставить picture? Презентация](https://pepelsbey.net/pres/picture/)
+- [Responsive Images]([https://pepelsbey.net/pres/picture/](http://brucelawson.github.io/talks/2015/awwwards/))
+- [Полифил для <picture>](http://scottjehl.github.io/picturefill/)
+- [Какие нужны фавиконки](https://htmlacademy.ru/blog/articles/short-18)
+
