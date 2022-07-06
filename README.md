@@ -513,6 +513,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Иконочные шрифты](https://fontello.com/)
 - [UTF-8 иконки](https://unicode-table.com/en/)
 - [Преобразовать любую картинку в вектор](https://www.base64-image.de/)
+- [css-tricks](https://css-tricks.com/)
 
 
 ##Stepik
