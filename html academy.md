@@ -481,3 +481,40 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [prettier](https://prettier.io/)
 - [stylefmt](https://github.com/morishitter/stylefmt)
 - [-fix](https://stylelint.io/user-guide/usage/cli/#autofixing-errors)
+
+### Препроцессоры и автоматизация
+
+- [Кастомные свойства](https://htmlacademy.ru/blog/articles/short-6)
+- [Примеси быстрее расширений, доказывает Гарри Роббертс](https://csswizardry.com/2016/02/mixins-better-for-performance/)
+- [Возможности препроцессора less](https://csswizardry.com/2016/02/mixins-better-for-performance/)
+- [Путеводитель по Less для новичков](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
+- [Возможности препроцессора sass](https://sass-lang.com/guide)
+- [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru/)
+
+### Адаптивные сетки
+
+- [Основные принципы «отзывчивого» веб-дизайна показали в GIF](http://www.lookatme.ru/mag/live/experience-news/209291-responsive)
+- [The joys and pains of type on screen](https://medium.com/swlh/the-joys-and-pains-of-type-on-screen-1dad8dd2eb09)
+- [Сборник ресурсов по адаптивности](https://bradfrost.github.io/this-is-responsive/resources.html)
+- [5 распространенных проблем, которые решает адаптивная верстка](https://habr.com/ru/company/yandex/blog/307064/)
+- [Почему Mobile First?](https://habr.com/ru/post/269419/)
+- [Кому нужны флексы](https://htmlacademy.ru/blog/articles/short-8)
+- [Flexbox, теперь понятно](https://vimeo.com/67011034)
+- [Harnessing Flexbox For Today’s Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+- [Flexbox playground.](https://codepen.io/enxaneta/full/adLPwv/)
+- [flexbugs](https://github.com/philipwalton/flexbugs)
+
+### Игры, помогающие понять flexbox
+
+- [flexboxdefense](http://www.flexboxdefense.com/)
+- [flexboxfroggy](http://flexboxfroggy.com/#ru)
+
+### Подробнее о вьюпорте
+- [Будущая спецификация @viewport](https://www.w3.org/TR/css-device-adapt-1/#at-ruledef-viewport)
+- [A tale of two viewports — part one](https://www.quirksmode.org/mobile/viewports.html)
+- [A tale of two viewports — part two](https://www.quirksmode.org/mobile/viewports2.html)
+- [Combining meta viewport and media queries](https://www.quirksmode.org/blog/archives/2010/09/combining_meta.html)
+
+- [Ремы, емы, и почему отказ от них — не проблема](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
+- [Full Width Containers in Limited Width Parents](https://css-tricks.com/full-width-containers-limited-width-parents/)
+
