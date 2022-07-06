@@ -518,3 +518,12 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Ремы, емы, и почему отказ от них — не проблема](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 - [Full Width Containers in Limited Width Parents](https://css-tricks.com/full-width-containers-limited-width-parents/)
 
+### Адаптивные декоративные элементы 
+- [11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/)
+- [flexbox-tester](https://www.madebymike.com.au/demos/flexbox-tester/)
+- [Make full screen sections with 1 line of CSS](https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd)
+- [Hiding DOM elements](https://allyjs.io/tutorials/hiding-elements.html)
+- [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
+- [Мобильные браузеры и их пушистые лапки](https://habr.com/ru/company/zerotech/blog/336172/)
+- [Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/)
+
