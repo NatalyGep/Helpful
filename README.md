@@ -510,6 +510,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Бесплатный редактор изображений, работает с psd](https://www.photopea.com/)
 - [Вставляем responsive video c youtube](https://css-tricks.com/fluid-width-video/)
 - [Иконочные шрифты](https://fontello.com/)
+- [UTF-8 иконки](https://unicode-table.com/en/)
 
 
 ##Stepik
