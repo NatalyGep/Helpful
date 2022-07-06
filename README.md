@@ -511,6 +511,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Вставляем responsive video c youtube](https://css-tricks.com/fluid-width-video/)
 - [Иконочные шрифты](https://fontello.com/)
 - [UTF-8 иконки](https://unicode-table.com/en/)
+- [Преобразовать любую картинку в вектор](https://www.base64-image.de/)
 
 
 ##Stepik
