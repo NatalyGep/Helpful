@@ -438,7 +438,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 
 ## Step2
 
-###ВВодный
+### ВВодный
 
 - [Cmder - консоль для Windows](https://cmder.net/)
 - [Как использовать консоль в Windows](https://nicothin.pro/page/console-windows)
@@ -458,3 +458,26 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Полезные команды для работы с Node.js](https://htmlacademy.ru/blog/articles/useful-commands-for-working-with-nodejs)
 - [Начало работы с Node.js](https://medium.com/devschacht/node-hero-chapter-1-239f7afeb1d1)
 - [HTML & CSS: как не надо](https://yoksel.github.io/bad-practices/font-styles/)
+
+### Методологии верстки 
+
+- [Методология БЭМ](https://ru.bem.info/methodology/)
+- [Культ карго CSS](https://web-standards.ru/articles/cargo-cult-css/)
+- [Архитектура CSS](https://web-standards.ru/articles/css-architecture/)
+- [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/ru/company/yandex/blog/276035/)
+- [Вёрстка независимыми блоками](http://vitaly.harisov.name/article/independent-blocks.html)
+- [БЭМантика: пишите осмысленные стили без повторов](https://css-live.ru/articles/bemantika-pishite-osmyslennye-stili-bez-povtorov.html)
+- [Искусство семантики HTML](https://github.com/FrontenderMagazine/the-art-of-html-semantics-pt1/blob/master/rus.md)
+- [About HTML semantics and front-end architecture](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+- [MindBEMding – getting your head ’round BEM syntax](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [HTML шорты: Зачем нужен БЭМ](https://htmlacademy.ru/blog/articles/short-5)
+- [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/articles/codeguide-why-what-and-how)
+- [CSS Guidelines Гарри Робертса](https://cssguidelin.es/)
+- [Основные правила и принципы написания CSS](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md)
+- [Принципы написания однородного CSS-кода](https://github.com/necolas/idiomatic-css/tree/master/translations/ru-RU)
+- [EditorConfig](https://editorconfig.org/)
+- [Stylelint](https://stylelint.io/)
+- [EditorConfig — Одни Настройки для всех Редакторов/IDE](https://habr.com/ru/post/220131/)
+- [prettier](https://prettier.io/)
+- [stylefmt](https://github.com/morishitter/stylefmt)
+- [-fix](https://stylelint.io/user-guide/usage/cli/#autofixing-errors)
