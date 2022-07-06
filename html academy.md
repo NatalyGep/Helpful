@@ -437,4 +437,24 @@ Experimental layout lab - https://labs.jensimmons.com/
 Начинай учить английский в Skyeng и получи годовой доступ ко всем курсам HTML Academy - http://school.skyeng.ru/htmlacademy/
 
 ## Step2
-- []()
+
+###ВВодный
+
+- [Cmder - консоль для Windows](https://cmder.net/)
+- [Как использовать консоль в Windows](https://nicothin.pro/page/console-windows)
+- [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
+- [Словарь терминов для Git и GitHub](https://htmlacademy.ru/blog/articles/git-and-github-glossary)
+- [Работа с Git через консоль](https://htmlacademy.ru/blog/best/git-console)
+- [Как открыть пулл-реквест в Github и не облажаться](https://isqua.ru/blog/2017/04/12/kak-otkryt-pull-riekviest-v-github-i-nie-oblazhatsia/)
+- [Как склеить коммиты и зачем это нужно](https://htmlacademy.ru/blog/best/how-to-squash-commits-and-why-it-is-needed)
+- [Как оформлять коммиты, чтобы потом не было больно](https://habr.com/ru/company/Voximplant/blog/276695/)
+- [Настольная книга о работе Git](https://git-scm.com/book/ru/v2)
+- [Интерактивный тур по работе с Git](https://githowto.com/ru)
+- [Интерактивное обучение по работе с ветками Git](https://learngitbranching.js.org/?locale=ru_RU)
+- [Полезные команды для работы с Git](https://htmlacademy.ru/blog/articles/useful-commands-for-working-with-git)
+- [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/blob/master/git/readme.md)
+- [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
+- [Как установить Node.js](https://htmlacademy.ru/blog/articles/installing-nodejs)
+- [Полезные команды для работы с Node.js](https://htmlacademy.ru/blog/articles/useful-commands-for-working-with-nodejs)
+- [Начало работы с Node.js](https://medium.com/devschacht/node-hero-chapter-1-239f7afeb1d1)
+- [HTML & CSS: как не надо](https://yoksel.github.io/bad-practices/font-styles/)
