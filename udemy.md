@@ -64,7 +64,7 @@
 - [CSS 2 SASS/SCSS CONVERTER](https://css2sass.herokuapp.com/)
 - [CSS3-трансформации](https://html5book.ru/css3-transform/)
 - [500000+ logo png images, vector brand logos](https://seeklogo.com/)
-- [IcoMoon Free](https://icomoon.io/app/#/select)
+- [IcoMoon Free собираем иконочные шрифты](https://icomoon.io/app/#/select)
 - [flaticon](https://www.flaticon.com/)
 - [fontawesome](https://fontawesome.com/)
 - [PerfectPixel for Chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
