@@ -42,6 +42,7 @@
 - [cssreference](https://cssreference.io/)
 - [Единицы измерения](https://www.w3.org/Style/Examples/007/units.ru.html)
 - [Flexbox на примере игрального кубика](https://habr.com/ru/post/259783/)
+- [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](https://html5.by/blog/flexbox/)
 - [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habr.com/ru/post/313938/)
 - [normalize cdnjs](https://cdnjs.com/libraries/normalize)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
