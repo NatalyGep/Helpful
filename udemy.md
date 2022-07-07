@@ -45,6 +45,7 @@
 - [Что такое Flexbox? Описание всех css свойств, основные принципы, преимущества и недостатки](https://html5.by/blog/flexbox/)
 - [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habr.com/ru/post/313938/)
 - [normalize cdnjs](https://cdnjs.com/libraries/normalize)
+- [reset cdnjs](https://cdnjs.com/libraries/meyer-reset)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Сброс стилей с помощью CSS Reset](https://habr.com/ru/post/45296/)
 - [О normalize.css](https://htmlacademy.ru/blog/64-about-normalize-css)
