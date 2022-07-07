@@ -28,3 +28,6 @@
 
 - [WIREFRAME wireframe](https://wireframe.cc/)
 - [WIREFRAME](https://ninjamock.com/)
+- [VSC Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [JPG, GIF, PNG и SVG — какой формат для интернета лучше?](https://itblog21.ru/jpg-gif-png-i-svg-kakoj-format-dlya-interneta-luchshe)
+- [figpea](https://figpea.com/)
