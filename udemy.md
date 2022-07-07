@@ -47,6 +47,7 @@
 - [normalize cdnjs](https://cdnjs.com/libraries/normalize)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Сброс стилей с помощью CSS Reset](https://habr.com/ru/post/45296/)
+- [О normalize.css](https://htmlacademy.ru/blog/64-about-normalize-css)
 - [font-family Интерактивный пример](https://developer.mozilla.org/ru/docs/Web/CSS/font-family)
 - [Google Fonts](https://fonts.google.com/)
 - [WebFonts.pro - здесь собраны лучшие шрифты](https://webfonts.pro/)
