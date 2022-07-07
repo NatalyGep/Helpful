@@ -34,3 +34,5 @@
 - [Конвертер файлов](https://convertio.co/ru/)
 - [online-convert](https://www.online-convert.com/)
 - [Image Vectorizer](https://www.vectorizer.io/)
+- [htmlreference](https://htmlreference.io/)
+- [html5book](https://html5book.ru/html-html5/)
