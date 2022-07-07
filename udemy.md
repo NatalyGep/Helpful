@@ -67,6 +67,7 @@
 - [IcoMoon Free собираем иконочные шрифты](https://icomoon.io/app/#/select)
 - [flaticon](https://www.flaticon.com/)
 - [fontawesome](https://fontawesome.com/)
+- [CSS3-медиазапросы](https://html5book.ru/css3-mediazaprosy/)
 - [PerfectPixel for Chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
 - [Favicon для сайта онлайн](https://pr-cy.ru/favicon/)
 - [Как добавить иконку сайта в адресную строку браузера?](http://htmlbook.ru/faq/kak-dobavit-ikonku-sayta-v-adresnuyu-stroku-brauzera)
