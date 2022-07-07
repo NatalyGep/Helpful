@@ -533,7 +533,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Основы адаптивности изображений](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 - [Automatically art-directed responsive images](https://cloudinary.com/blog/automatically_art_directed_responsive_images)
 - [Сколько нужно верстальщиков, чтобы вставить picture? Презентация](https://pepelsbey.net/pres/picture/)
-- [Responsive Images]([https://pepelsbey.net/pres/picture/](http://brucelawson.github.io/talks/2015/awwwards/)
+- [Responsive Images](https://pepelsbey.net/pres/picture/](http://brucelawson.github.io/talks/2015/awwwards/)
 - [Полифил для picture](http://scottjehl.github.io/picturefill/)
 - [Какие нужны фавиконки](https://htmlacademy.ru/blog/articles/short-18)
 
