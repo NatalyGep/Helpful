@@ -40,4 +40,4 @@
 - [Официальная документация devtools](https://developer.chrome.com/docs/devtools/)
 - [css reset](https://gist.github.com/freetonik/b432fa2ea224eca2f2458838049a8e7f)
 - [OpenGraph](https://ogp.me/#types)
-- 
+- [Логические задачи, тренируем мозг braingames](https://www.braingames.ru/)
