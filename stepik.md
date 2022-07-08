@@ -37,3 +37,4 @@
 - [Конвертер изображений](https://image.online-convert.com/ru)
 - [Шрифты Google](https://fonts.google.com/)
 - [Скачать справочники по HTML и CSS](https://drive.google.com/file/d/1cDk_68KR5n8ib9zKs6Xfz4TkvtrNp4Ip/view)
+- [Официальная документация devtools](https://developer.chrome.com/docs/devtools/)
