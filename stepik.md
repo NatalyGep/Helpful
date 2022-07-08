@@ -13,3 +13,4 @@
 - [Бесплатный хост netlify](https://app.netlify.com/)
 - [Документация Emmet](https://docs.emmet.io/)
 - [Составить регулярное выражение RegExpal](https://www.regexpal.com/)
+- [Интерактивным справочником по Flexbox](https://yoksel.github.io/flex-cheatsheet/#section-align-items-self)
