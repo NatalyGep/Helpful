@@ -39,3 +39,5 @@
 - [Скачать справочники по HTML и CSS](https://drive.google.com/file/d/1cDk_68KR5n8ib9zKs6Xfz4TkvtrNp4Ip/view)
 - [Официальная документация devtools](https://developer.chrome.com/docs/devtools/)
 - [css reset](https://gist.github.com/freetonik/b432fa2ea224eca2f2458838049a8e7f)
+- [OpenGraph](https://ogp.me/#types)
+- 
