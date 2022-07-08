@@ -1,6 +1,6 @@
 ### Где можно поучиться бесплатно или не за дорого:
 
-- [Качаем с торрента (ищем по названиям школ и языков программирования](https://rutracker.org/forum/index.php)
+- [Качаем с торрента (ищем по названиям школ и языков программирования)](https://rutracker.org/forum/index.php)
 - [code-basics](https://ru.code-basics.com/)
 - [Открытое образование](https://openedu.ru/)
 - [RS School](https://rs.school/)
@@ -14,3 +14,6 @@
 - [netology бесплатные курсы](https://netology.ru/)
 - [skillbox плейлист](https://live.skillbox.ru/playlists/)
 - [ЯндексПрактикумб бесплатная часть ](https://practicum.yandex.ru/catalog/programming/)
+- [itvdn](https://itvdn.com/ru/specialities/frontend-developer)
+- [28 бесплатных онлайн-курсов по Frontend(некоторые не актуальные)](https://proity.ru/programming/free-frontend-courses/)
+- [28 бесплатных онлайн-курсов по JavaScript](https://proity.ru/programming/free-js-courses/)
