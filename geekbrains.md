@@ -51,6 +51,7 @@
 - [Сервис для подбора шрифтов, конвертации, определения](https://www.fontsquirrel.com/)
 - [Подключение нестандартных шрифтов – @font-face!](https://habrahabr.ru/post/113136/)
 - [Производительность веб-шрифтов](https://habrahabr.ru/post/159907/)
+- [webcode.tool Лучшие генераторы кода для разработчиков](https://webcode.tools/)
 
 
 
