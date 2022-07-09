@@ -42,8 +42,16 @@
 - [Компилятор Sass](http://koala-app.com/)
 - [SCSS – немного практики, часть I](https://habrahabr.ru/post/140612/)
 - [SCSS: пара полезных техник](https://habrahabr.ru/post/151679/)
-- []()
-- []()
+- [@media](https://developer.mozilla.org/ru/docs/Web/CSS/@media)
+- [14 инструментов для проверки кроссбраузерности сайта](http://ruseller.com/lessons.php?rub=28&id=1209)
+- [CSS3 Generator](http://css3generator.com/CSS3)
+- [Animation Generator](http://webcodetools.com/css-generator/animation)
+- [Кривые Безье](https://matthewlein.com/ceaser/)
+- [@font-face]( https://webref.ru/css/font-face)
+- [Сервис для подбора шрифтов, конвертации, определения](https://www.fontsquirrel.com/)
+- [Подключение нестандартных шрифтов – @font-face!](https://habrahabr.ru/post/113136/)
+- [Производительность веб-шрифтов](https://habrahabr.ru/post/159907/)
+
 
 
 
