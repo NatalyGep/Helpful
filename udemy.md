@@ -72,4 +72,5 @@
 - [Favicon для сайта онлайн](https://pr-cy.ru/favicon/)
 - [Как добавить иконку сайта в адресную строку браузера?](http://htmlbook.ru/faq/kak-dobavit-ikonku-sayta-v-adresnuyu-stroku-brauzera)
 - [Github Pages](https://pages.github.com/)
+- [Планировщик задач gulp](https://gulpjs.com/)
 
