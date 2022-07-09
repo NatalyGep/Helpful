@@ -29,4 +29,21 @@
 - [Работа с цветом](https://www.colorzilla.com/gradient-editor/)
 - [howtocenterincss](http://howtocenterincss.com/)
 - [fontsquirrel](https://www.fontsquirrel.com/)
+- [Для проверки HTML-кода на валидность (ошибки)](https://validator.w3.org/)
+- [Modernizr](https://modernizr.com/)
+- [Первый взгляд на Avocode](https://habrahabr.ru/post/231381/)
+- [Игра для изучения flexbox](https://flexboxfroggy.com/)
+- [Sass vs. Less vs. Stylus](http://forwebdev.ru/css/sass-vs-less-vs-stylus/)
+- [С чего начать изучение SCSS/SASS?](https://toster.ru/q/101697)
+- [Основы Sass](http://sass-scss.ru/guide/)
+- [Подключение Sass](http://sass-scss.ru/install/)
+- [Почему Sass?](https://web-standards.ru/articles/why-sass/)
+- [CSS с суперсилой](http://sass-scss.ru/)
+- [Компилятор Sass](http://koala-app.com/)
+- [SCSS – немного практики, часть I](https://habrahabr.ru/post/140612/)
+- [SCSS: пара полезных техник](https://habrahabr.ru/post/151679/)
+- []()
+- []()
+
+
 
