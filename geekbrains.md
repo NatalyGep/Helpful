@@ -1,6 +1,7 @@
 - [Что такое браузер. Какие есть браузеры и как его выбрать.](https://myblaze.ru/chto-takoe-brauzer-kakie-est-brauzeryi-i-kak-ego-vyibrat/)
 - [Статья про типограф, с чего всё начиналось и для чего же он нужен](https://habr.com/ru/post/21727/)
 - [Чуть подробней про гипертекст](http://www.webremeslo.ru/html/glava5.html)
+- [Типограф](https://www.artlebedev.ru/typograf/)
 - [Знаете ли вы селекторы?](https://learn.javascript.ru/css-selectors)
 - [30 CSS-селекторов, о которых полезно помнить](http://codeharmony.ru/materials/42)
 - [Вложенность селекторов](http://site-on.net/create/html/5-selectori-css-tochechnoe-primenenie-svoistv-css-optimizaciya-html)
