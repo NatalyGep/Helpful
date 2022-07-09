@@ -26,4 +26,7 @@
 - [CSS-препроцессоры](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/chapter_1/css-reprocessors.html)
 - [Начинаем писать CSS](https://frontender.info/starting-css/)
 - [CSS3 Generator](https://css3generator.com/)
+- [Работа с цветом](https://www.colorzilla.com/gradient-editor/)
+- [howtocenterincss](http://howtocenterincss.com/)
+- [fontsquirrel](https://www.fontsquirrel.com/)
 
