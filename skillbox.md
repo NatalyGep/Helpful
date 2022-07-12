@@ -2,3 +2,4 @@
 - [Шаблонизатор haml](https://haml.info/)
 - [препроцессор stylus](https://stylus-lang.com/)
 - [проверить совместимость под все браузеры browsershots](https://browsershots.org/)
+- [realfavicongenerator](https://realfavicongenerator.net/)
