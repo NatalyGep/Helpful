@@ -1,0 +1,2 @@
+- [Справочник EMMET сокращений для ускорения верстки](https://webdesign-master.ru/blog/html-css/2.html)
+- []()
