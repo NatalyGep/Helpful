@@ -531,6 +531,3 @@ Android (Google Material Design): https://material.io/guidelines/
 
 
 
-
-
-
