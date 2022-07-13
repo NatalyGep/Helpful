@@ -108,3 +108,42 @@
 • http://www.apple.com/macos/sierra-preview/
 • https://poppyhome.com
 
+Текстовые редакторы:
+https://paper.dropbox.com/
+https://docs.google.com/
+https://evernote.com/
+https://programmerbird.com/letterspace/
+Плагиатус от Адвего показывает степень уникальности текста, источники текста и процент
+совпадения текста.
+Типограф — средство подготовки текстов к web-изданию… Форматирует текст для приведения
+его к более правильному с точки зрения типографики виду.
+Главред Максима Ильяхова помогает очистить текст от словесного мусора, проверяет на
+соответствие информационному стилю.
+Словари эпитетов (подбор подходящих определений к заданным словам): 
+http://www.slovesa.ru/
+http://www.slovopedia.com/24/192-0.html
+Словари синонимов: 
+http://www.synonymizer.ru/
+http://jeck.ru/tools/SynonymsDictionary/
+http://www.classes.ru/
+Поиск в тексте случайных тавтологий: 
+http://quittance.ru/tautology.php
+Сервисы сравнения схожести двух текстов: 
+http://www.topwriter.ru/comparison
+http://utext.rikuz.com/
+Сокращение длинных ссылок: 
+https://goo.gl
+http://tr.im/
+Кодировка и раскодировка: 
+http://www.artlebedev.ru/tools/decoder/
+http://www.abrams.ru/help/decoder/
+Справочник + самоучитель по HTML и CSS:
+http://htmlbook.ru
+https://webref.ru
+Статистика ключевых слов на Яндексе: 
+http://wordstat.yandex.ru/
+Справочник Розенталя: 
+http://rosental.virtbox.ru/
+Грамота.ру: 
+http://www.gramota.ru
+
