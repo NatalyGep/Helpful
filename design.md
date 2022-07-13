@@ -147,3 +147,28 @@ http://rosental.virtbox.ru/
 Грамота.ру: 
 http://www.gramota.ru
 
+
+###Где брать достойные и бесплатные ресурсы
+
+1	http://thestocks.im — агрегатор фотостоков под CC лицензией
+2	https://www.sitebuilderreport.com/stock-up — поиск по сразу нескольким фотостокам
+3	https://tookapic.com/photos?sort=recent&list=free
+4	https://www.flickr.com/photos/devetpan — на фликре можно найти много бесплатных изображений
+5	https://unsplash.com — самый модный сток-сервис с неплохими фотками в высоком разрешении
+6	http://www.resplashed.com
+7	http://join.deathtothestockphoto.com — подписка на рассылку пачки фоток каждый месяц или неделю
+8	https://picjumbo.com
+9	http://littlevisuals.co
+10	http://nos.twnsnd.co — олдовые фотки
+11	http://images.superfamous.com
+12	http://butdoesitfloat.com/
+13	http://www.gratisography.com
+14	http://www.imcreator.com/free
+15	https://www.stocksy.com
+16	http://getrefe.com/downloads/category/free/
+17	http://clip.dn.ua — тут в основном фотосточное говно, но можно найти что-то неплохое
+18	http://skuawk.com
+19	https://www.nasa.gov/multimedia/imagegallery/index.html — фотки от NASA
+20	https://pixabay.com
+21	https://search.creativecommons.org — поиск по лицензии и сервису
+
