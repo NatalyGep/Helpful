@@ -172,3 +172,32 @@ http://www.gramota.ru
 20	https://pixabay.com
 21	https://search.creativecommons.org — поиск по лицензии и сервису
 
+МОКАПЧИКИ
+http://getcover.ru
+https://place.to
+https://placeit.net
+http://mockuphone.com
+https://www.apple.com/pr/products/
+https://speckyboy.com
+https://www.mockuuups.com
+http://facebook.design/devices
+
+Где найти качественные пиктограммы
+Векторные и растровые иконки
+https://icons8.com
+https://material.io/icons
+https://thenounproject.com
+http://copypastecharacter.com
+http://flaticon.com
+https://iconfinder.com
+http://iconmonstr.com
+http://svgicons.sparkk.fr
+https://app.illustrio.com
+Текстовые иконки
+http://fontawesome.io
+https://icomoon.io
+http://fontastic.me
+http://fontello.com
+http://ionicons.com
+http://zurb.com/playground/foundation-icon-fonts-3
+
