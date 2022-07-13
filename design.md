@@ -441,6 +441,93 @@ https://www.smartsheet.com/
 https://products.office.com/
 https://www.omnigroup.com/omniplan
 
+Вот вам ссылки на галереи сайтов, 
+где можно найти хорошие работы: 
+
+https://www.behance.net/galleries/8/Interaction 
+http://httpster.net/ 
+http://onepagelove.com/ 
+http://www.siteinspire.com/ 
+http://bestwebsite.gallery/ 
+http://www.awwwards.com/
+сервис fivesecondtest.com позволит протестировать ваш макет или сайт и понять реакцию разных групп пользователей.
+Задача — вылить воду из текстов, добавить фактов. 
+
+Для этого используйте сервис Главред — glvrd.ru
+
+Ссылка на статью Ильяхова по инфостилю http://maximilyahov.ru/hello/ 
+Это поможет вам писать тексты без воды и сразу выделять смысл.
+Цветовую схему лучше описать скриншотами сайтов из уровня нормы. 
+Ищите в галереях: 
+1. dribbble.com 
+2. behance.net 
+3. onepagelove.com 
+4. httpster.net 
+5. siteinspire.com 
+Очень крутой ресурс для вдохновения по цвету — http://designspiration.net/
+Для скриншотов можно использовать Lightshot.
+Много профессиональных фото можно найти на flickr.com
+Полезные ссылки:
+goodui.org
+https://material.io/guidelines/
+zeplin.io
+сайт с кнопками:
+https://houseofbuttons.tumblr.com/
+Рекомендую искать работы здесь: 
+— Dribbble.com 
+— Behance.net в разделе взаимодействие (interaction) 
+— Onepagelove.com 
+— Siteinspire.net 
+— Httpster.net 
+— Thefwa.com 
+— Awwwards.com
+Кстати, вот материалы по типографике, которые будут вам очень полезны: 
+
+1. Галереи шрифтов (к вопросу о том, где искать шрифты) 
+https://www.google.com/fonts 
+http://goo.gl/9pQTm 
+http://www.fontfabric.com/ 
+http://vk.com/shrift 
+http://vk.com/ru_fonts 
+http://vk.com/basefonts 
+http://vk.com/nfonts 
+http://www.myfonts.com/ 
+
+2. Краткий учебник по типографике на английском http://practicaltypography.com/ 
+
+3. К вопросу о подборе шрифтовых пар: 
+https://www.fontpair.co/
+http://fontflame.com/ - личная калибровка на норму 
+http://typeconnection.com/ - здесь можно изучить способы подбора пар 
+https://tiff.herokuapp.com/ - для сравнения отдельных литер пар шрифтов 
+http://www.typetester.org - для выбора лучшего варианта шрифта для наборного текста 
+
+4. Инструмент для распознавания шрифтов на сайтах — http://fontface.ninja/
+Много хороших примеров презинтаций есть здесь: 
+https://www.behance.net/galleries/2/Graphic-Design
+https://vk.com/posterino 
+https://dribbble.com/search?q=poster 
+https://goo.gl/yu1hZY
+Полезные ссылки: 
+Анализ инструментов прототипирования интерфейсов.
+http://sketchapp.me/analiz-instrumentov-prototipirovaniya-interfejsov/
+
+Коллекции UI-китов: 
+https://freebiesbug.com/psd-freebies/ui-kits/ 
+https://freebiesupply.com/ 
+
+ГАЙДЛАЙНЫ: 
+iOS (Human Interface Guidelines): https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
+UI-кит: https://developer.apple.com/design/resources/ 
+Шрифты для iOS: http://iosfonts.com/ 
+
+Android (Google Material Design): https://material.io/guidelines/ 
+Иконки: https://material.io/icons/ 
+Подбор цвета: https://material.io/color/#!/?view.left=0&view.right=0
+Шрифт: https://material.io/guidelines/resources/roboto-noto-fonts.html
+Навигация: https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
+
+
 
 
 
