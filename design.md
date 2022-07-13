@@ -327,3 +327,123 @@ Tumblr
 119. http://type-lover.tumblr.com — типографика, 
 120. http://julesjulien.tumblr.com — иллюстрации, 
 121. http://exhibition-ism.com — всякий арт
+
+1. www.behance.net - сайт, на котором дизайнеры размещают свои работы; это некая социальная сеть дизайнеров со всего мира, которую организовала компания Adobe. На этом ресурсе очень часто заказчики ищут веб-дизайнеров для своих проектов.
+2. www.dribbble.com - аналог предыдущему сайту, но на нем размещают свои работы только самые крутые дизайнеры, т.к. вход сюда только по приглашениям или платно.
+3. www.awwwards.com - сайт, на котором собраны лучшие дизайнерские работы последних лет.
+4. www.onepagelove.com - ресурс, на котором представлены лучшие одностранчиные сайты современности.
+5. www.revision.ru - российский аналог беханса.
+
+список самых популярных новостных сайтов для дизайнеров:
+1. www.dejurka.ru
+2. tutdesign.ru/cats
+3. www.cossa.ru
+
+1. blog.sibirix.ru - блог веб-студии “Сибирикс”, которая делает не только крутые сайты и приложения, но и щедро делится знаниями со всеми желающими.
+2. www.artlebedev.ru - сайт всемирно известного дизайнера Артемия Лебедева.
+
+фотостоки бывают бесплатными 
+(unsplash.com) и платными 
+(shutterstock.com)
+
+создание прототипа
+- www.moqups.com
+- www.balsamiq.com
+- www.wireframe.cc
+
+Статья "Инструменты быстрого прототипирования" https://habr.com/ru/post/70001/
+
+Бесплатные фотостоки (растр):
+https://unsplash.com
+https://pixabay.com/ru/
+
+Бесплатные фотостоки (вектр):
+https://ru.freepik.com
+https://ru.365psd.com
+
+Работа с цветом (из урока):
+https://colorscheme.ru
+https://color.adobe.com/ru/create
+https://www.materialpalette.com
+http://getuicolors.com
+https://www.palettable.io/
+
+Ресурсы для поиска изображений
+1. unsplash.com - замечательный ресурс, где каждую неделю выкладывают необычные фотографии для проектов. Они все хорошего разрешения и абсолютно бесплатны.
+
+2. pexels.com - аналогичный ресурс с бесплатными фотографиями.
+
+3. shutterstock.com/ru - это платные ресурс, причем довольно дорогой, так что этим ресурсом пользоваться оптимально тем, кто зарабатывает на дизайне достаточно стабильно и сразу же предупреждает клиентов о том, что часть средств пойдет на скачивание изображений. Но он крут тем, что имеет самую большую базу фотографий во всем мире.
+
+4. pinterest.com - очень крутой сервис для вдохновения и составления мудбордов. В коммерческих целях лучше всего не использовать эти изображения.
+
+
+1)	https://fonts.google.com - здесь качаем шрифты
+
+2)	https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search=free%20font - здесь находим интересные бесплатные леттеринг шриты
+
+
+3)	https://www.behance.net/gallery/35768979/Typography-Google-Fonts-Combinations?tracking_source=search%7Cgoogle%20fonts - 1-ая комбинация шрифтов
+
+4)	https://www.behance.net/gallery/41054815/Typography-Google-Fonts-Combinations-Volume-2?tracking_source=search%7Cgoogle%20fonts - 2-ая комбинация шрифтов
+
+5)	https://infogra.ru/typography - Топ кириллических шрифтов
+
+ UI kit www.365psd.com
+ 
+ Бесплатные Mock-up:
+- https://www.mockupworld.co
+- https://graphicburger.com/tag/mock-up/
+- https://vk.com/mockapi
+- https://freemockup.ru
+- https://pogudo.ru/category/design/mocap/
+
+Material design
+https://design.google.com
+
+Design UWP apps
+https://goo.gl/QMmFv6
+
+Далее немного про инструменты:
+Sketch app
+http://www.sketchapp.com
+
+invision app (анимация и интерактив, кооперация с клиентами)
+https://www.invisionapp.com
+
+Principle (анимация и интерактив)
+http://principleformac.com
+https://www.flinto.com
+http://www.pixate.com
+
+Удобный сервис для работы с верстальщиком, клиентом, менеджером
+https://zeplin.io
+
+Для изучения UI паттернов, шаблонов, стилей и так далее:
+http://www.collectui.com
+http://pttrns.com
+http://inspired-ui.com
+http://uipatterns.io
+http://www.mobile-patterns.com
+http://inspirationmobile.tumblr.com
+https://ru.pinterest.com/warmarc/ui-design/
+http://www.iospirations.com
+
+Хорошая статья про онбординг и некоторые другие важные детали мобильного приложения:
+https://goo.gl/NCY3Hu
+https://goo.gl/w6Isyz
+https://uxdesign.cc
+http://goo.gl/mQhD0v
+
+Программы для тайминга:
+
+https://www.smartsheet.com/
+https://products.office.com/
+https://www.omnigroup.com/omniplan
+
+
+
+
+
+
+
