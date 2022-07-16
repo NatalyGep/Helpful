@@ -117,3 +117,4 @@ PSD -
 - [f.lux — это программное приложение, регулирующее цветовую температуру компьютерного монитора](https://justgetflux.com/)
 - [remixicon](https://remixicon.com/)
 - [15 CSS Blob Effects](https://freefrontend.com/css-blob-effects/)
+- [Jade — препроцессор HTML и шаблонизатор](https://www.reclamare.ua/blog/jade-preprocessor-html-i-shablonizator/)
