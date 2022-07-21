@@ -19,3 +19,5 @@
 - [28 бесплатных онлайн-курсов по JavaScript](https://proity.ru/programming/free-js-courses/)
 - [обучение от центра занятости, смотри так же проекты Демография или Содействие занятости для разных групп граждан](https://trudvsem.ru/educational-programs?_regionIds=90c7181e-724f-41b3-b6c6-bd3ec7ae3f30&page=0&titleType=COURSE_NAME)
 - [Цифровые профессии](https://profidigital.gosuslugi.ru/?utm_source=main&utm_medium=banner&utm_campaign=profidigital&utm_content=landing)
+- [udemy](https://www.udemy.com/)
+- [freecodecamp](https://www.freecodecamp.org/learn)
