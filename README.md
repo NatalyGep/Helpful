@@ -130,3 +130,8 @@ PSD -
 - [Сервис HTML5Test проверяет, насколько тот или иной браузер готов работать со стандартом HTML5](http://html5test.com/)
 - [Сервис HTML5 Please содержит информацию о поддержке браузерами всех новых API стандарта HTML5](https://html5please.com/)
 - [FormLinter найдёт на сайте формы и проверит, есть ли у них проблемы с доступностью](https://formlinter.com/)
+
+##Видеоконвертеры 
+- [CloudConvert — онлайн-конвертер файлов](https://cloudconvert.com/)
+- [ONLINE-CONVERT](https://www.online-convert.com/ru)
+- [Firefogg — модуль расширения для Firefox, может создавать видеофайлы Theora и WebM](http://www.firefogg.org/)
