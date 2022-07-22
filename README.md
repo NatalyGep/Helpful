@@ -119,3 +119,14 @@ PSD -
 - [15 CSS Blob Effects](https://freefrontend.com/css-blob-effects/)
 - [Jade — препроцессор HTML и шаблонизатор](https://www.reclamare.ua/blog/jade-preprocessor-html-i-shablonizator/)
 - [Colors Tutorial](https://www.w3schools.com/colors/default.asp)
+
+##HTML-генераторы
+- [image-maps](https://www.image-maps.com/)
+- [Create animated HTML5 Banners Gif, Mp4 & Png display ads](https://onlymega.com/#/)
+- [HTML Minifier](http://kangax.github.io/html-minifier/)
+- [Mobile HTML5 таблица совместимости HTML5 API на мобильных и планшетных браузерах с тестированием на реальных устройствах.](http://mobilehtml5.org/)
+- [Initializr — генератор HTML5-шаблонов](http://www.initializr.com/)
+- [Browsershots делает скриншоты дизайна вашего сайта в разных операционных системах и браузерах](https://browsershots.org/)
+- [Сервис HTML5Test проверяет, насколько тот или иной браузер готов работать со стандартом HTML5](http://html5test.com/)
+- [Сервис HTML5 Please содержит информацию о поддержке браузерами всех новых API стандарта HTML5](https://html5please.com/)
+- [FormLinter найдёт на сайте формы и проверит, есть ли у них проблемы с доступностью](https://formlinter.com/)
