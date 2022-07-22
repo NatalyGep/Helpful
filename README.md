@@ -136,5 +136,5 @@ PSD -
 - [ONLINE-CONVERT](https://www.online-convert.com/ru)
 - [Firefogg — модуль расширения для Firefox, может создавать видеофайлы Theora и WebM](http://www.firefogg.org/)
 
-- []()
+- [boxicons](https://boxicons.com/usage#import-css)
 - [Most Powerful Palette Generator](https://colors.dopely.top/)
