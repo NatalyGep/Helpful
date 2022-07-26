@@ -48,6 +48,8 @@
 - [Анимация по правилам UX-дизайна: полное руководство](http://seo-design.net/user-experience/animation-rules-based-on-ux-design)
 - [Interface Animation. The Force of Motion](https://blog.tubikstudio.com/interface-animation-the-force-of-motion/)
 - [Interaction Design: 7 Basic Types of UI Animation](https://blog.icons8.com/articles/interaction-design-basic-types-ui-animation/)
-- []()
-- []()
+
+### Модуль по JS
+- [Числа, способы записи, математические функции](https://learn.javascript.ru/number)
+- [Справочник по объекту Math](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math)
 - []()
