@@ -52,4 +52,5 @@
 ### Модуль по JS
 - [Числа, способы записи, математические функции](https://learn.javascript.ru/number)
 - [Справочник по объекту Math](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math)
-- []()
+- [standard.js, стандарты оформления кода на JavaScript](https://standardjs.com/)
+- [Разница между undefined и null](https://russianblogs.com/article/92151132605/)
