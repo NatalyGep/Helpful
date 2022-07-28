@@ -55,3 +55,4 @@
 - [standard.js, стандарты оформления кода на JavaScript](https://standardjs.com/)
 - [Разница между undefined и null](https://russianblogs.com/article/92151132605/)
 - [Циклы по объектам](https://zellwk.com/blog/looping-through-js-objects/)
+- [Реализации приложения TODO на различных языках и фреймворках](https://todomvc.com/)
