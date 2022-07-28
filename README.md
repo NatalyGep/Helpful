@@ -17,6 +17,7 @@
 
 - [Учебник “jQuery для начинающих”](https://anton.shevchuk.name/jquery-book/)
 - [Русская документация по API jQuery](https://jquery-docs.ru/)
+- [Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit)
 
 1.2.	Рекомендуемые консоли
 1.2.1.	Conemu - http://www.conemu.ru/ 
