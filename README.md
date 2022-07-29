@@ -5,6 +5,7 @@
 - [xiper](https://xiper.net/index.html)
 - [Линейные градиенты](http://css.yoksel.ru/linear-gradients/)
 - [The ultimate CSS tools for web designers](https://www.cssmatic.com/gradient-generator#/-moz/-linear/-gradient/%28left/%2C/%20rgba/%28248/%2C80/%2C50/%2C1/%29/%200/%25/%2C/%20rgba/%28241/%2C111/%2C92/%2C1/%29/%2050/%25/%2C/%20rgba/%28246/%2C41/%2C12/%2C1/%29/%2051/%25/%2C/%20rgba/%28240/%2C47/%2C23)
+- [Css Grid Highlighter for Chrome](https://github.com/ademilter/chrome-css-grid-highlighter/blob/master/README.md)
 
 
 Рекомендуемые FTP клиенты:
