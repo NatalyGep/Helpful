@@ -21,3 +21,8 @@
 - [Цифровые профессии](https://profidigital.gosuslugi.ru/?utm_source=main&utm_medium=banner&utm_campaign=profidigital&utm_content=landing)
 - [udemy](https://www.udemy.com/)
 - [freecodecamp](https://www.freecodecamp.org/learn)
+- [12 ТРЕНАЖЕРОВ ДЛЯ НАЧИНАЮЩИХ ПРОГРАММИСТОВ - БЕСПЛАТНО вроде работает бесплатно до сих пор](https://itvdn.com/ru/shares/12-trainers-for-beginners)
+- [учим C# ](https://ulearn.me/)
+- [Шесть бесплатных автоматизированных платформ для изучения программирования](https://habr.com/ru/company/hexlet/blog/432802/)
+- [The Frontend Developer Career Path scrimba](https://scrimba.com/learn/frontend)
+- [Подборка игр и тренажёров для начинающих разработчиков интерфейсов](https://academy.yandex.ru/posts/podborka-igr-i-trenazherov-dlya-nachinayuschikh-razrabotchikov-interfeysov)
