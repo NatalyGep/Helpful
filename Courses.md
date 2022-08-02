@@ -29,3 +29,4 @@
 - [Школа 21](https://21-school.ru/)
 - [ozon прокачаем middle-специалистов](https://route256.ozon.ru/)
 - [Полезные ссылки](https://telegra.ph/Poleznye-ssylki-11-28-3)
+- [15+ ресурсов с интерактивными онлайн-курсами, тренажерами и упражнениями по программированию](https://blog.cybermarketing.ru/15-resursov-s-interaktivnymi-onlajn-kursami-po-programmirovaniyu/)
