@@ -30,3 +30,5 @@
 - [ozon прокачаем middle-специалистов](https://route256.ozon.ru/)
 - [Полезные ссылки](https://telegra.ph/Poleznye-ssylki-11-28-3)
 - [15+ ресурсов с интерактивными онлайн-курсами, тренажерами и упражнениями по программированию](https://blog.cybermarketing.ru/15-resursov-s-interaktivnymi-onlajn-kursami-po-programmirovaniyu/)
+- [Javascript: погружение](https://main.wayup.in/library/course18?ref_link=212739)
+- [Знакомство с фронтендом](https://htmlacademy.ru/courses/intro-to-web-development)
