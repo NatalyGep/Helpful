@@ -26,3 +26,6 @@
 - [Шесть бесплатных автоматизированных платформ для изучения программирования](https://habr.com/ru/company/hexlet/blog/432802/)
 - [The Frontend Developer Career Path scrimba](https://scrimba.com/learn/frontend)
 - [Подборка игр и тренажёров для начинающих разработчиков интерфейсов](https://academy.yandex.ru/posts/podborka-igr-i-trenazherov-dlya-nachinayuschikh-razrabotchikov-interfeysov)
+- [Школа 21](https://21-school.ru/)
+- [ozon прокачаем middle-специалистов](https://route256.ozon.ru/)
+- [Полезные ссылки](https://telegra.ph/Poleznye-ssylki-11-28-3)
