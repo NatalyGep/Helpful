@@ -1,4 +1,4 @@
-##Идеальная верстка под Google
+
 - [Определяйте фактическую производительность сайта](https://pagespeed.web.dev/)
 - [w3docs Онлайн учебники и справочные материалы по HTML, CSS и JavaScript](https://ru.w3docs.com/)
 - [Markdown online Editor](https://dillinger.io/)
@@ -10,6 +10,9 @@
 - [сервис поможет вам привести запутанный js-код в читаемый вид](http://jsnice.org/)
 - [набор инструментов для автоматического создания документации проекта](https://jsdoc.app/)
 - [полезный инструмент для тестирования кода на JS](https://jasmine.github.io/)
+- [Как менялись известные сайты с 1995 года](https://zen.yandex.ru/media/seotiv/kak-menialis-izvestnye-saity-s-1995-goda-5ef17a93f3ff954d3607ecd1)
+- [Что такое семантическая вёрстка и зачем она нужна](https://htmlacademy.ru/blog/articles/semantics)
+- [Секреты использования семантической верстки в HTML5](https://medium.com/@stasonmars/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B8%CC%86-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8-%D0%B2-html5-c7cd5e6f1ebb)
 
 
 Рекомендуемые FTP клиенты:
