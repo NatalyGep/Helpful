@@ -48,3 +48,6 @@
 - [UTF-8 иконки](https://unicode-table.com/en/)
 - [Преобразовать любую картинку в вектор](https://www.base64-image.de/)
 - [css-tricks](https://css-tricks.com/)
+
+##JavaScript блок
+-[Repl.it Use our free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup](https://replit.com/)
