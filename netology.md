@@ -54,3 +54,4 @@
 - [LearnCode.academy youtube](https://www.youtube.com/c/learncodeacademy/playlists)
 - [Хекслет yotube](https://www.youtube.com/c/HexletOrg/playlists)
 - [Elevator Saga The elevator programming game](https://play.elevatorsaga.com/)
+- [проверяем производительность 2 участков кода](https://jsben.ch/)
