@@ -55,3 +55,4 @@
 - [Хекслет yotube](https://www.youtube.com/c/HexletOrg/playlists)
 - [Elevator Saga The elevator programming game](https://play.elevatorsaga.com/)
 - [проверяем производительность 2 участков кода](https://jsben.ch/)
+- [jsbin исполняем js](https://jsbin.com/?html,output)
