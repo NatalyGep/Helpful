@@ -42,3 +42,5 @@
 - [OpenGraph](https://ogp.me/#types)
 - [Логические задачи, тренируем мозг braingames](https://www.braingames.ru/)
 - [Рандомные картинки для тестов loremflickr](https://loremflickr.com/)
+- [библиотека stringTime.js для работы с временем в строковом формате](https://github.com/morphIsmail/stringTimeJS)
+- []()
