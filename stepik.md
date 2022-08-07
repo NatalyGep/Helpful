@@ -43,4 +43,4 @@
 - [Логические задачи, тренируем мозг braingames](https://www.braingames.ru/)
 - [Рандомные картинки для тестов loremflickr](https://loremflickr.com/)
 - [библиотека stringTime.js для работы с временем в строковом формате](https://github.com/morphIsmail/stringTimeJS)
-- []()
+- [генератор документации - смотрим все значения для написания документации к коду](https://ru.wikipedia.org/wiki/JSDoc)
