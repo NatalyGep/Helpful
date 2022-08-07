@@ -14,6 +14,12 @@
 - [Что такое семантическая вёрстка и зачем она нужна](https://htmlacademy.ru/blog/articles/semantics)
 - [Секреты использования семантической верстки в HTML5](https://medium.com/@stasonmars/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B8%CC%86-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8-%D0%B2-html5-c7cd5e6f1ebb)
 - [сервис Marsy для psd](https://www.markupeasy.ru/)
+- [MMO sandbox game for programmers](https://screeps.com/)
+- [CODING FOR KIDS codemonkey](https://www.codemonkey.com/)
+- [checkio game](https://checkio.org/)
+- [codingame Coding Games and Programming Challenges to Code Better](https://www.codingame.com/start)
+- [vim adventures game](https://vim-adventures.com/)
+- [codecombat game](https://codecombat.com/play)
 
 
 Рекомендуемые FTP клиенты:
