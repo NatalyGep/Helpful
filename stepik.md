@@ -44,3 +44,6 @@
 - [Рандомные картинки для тестов loremflickr](https://loremflickr.com/)
 - [библиотека stringTime.js для работы с временем в строковом формате](https://github.com/morphIsmail/stringTimeJS)
 - [генератор документации - смотрим все значения для написания документации к коду](https://ru.wikipedia.org/wiki/JSDoc)
+- [Спецификация ECMAScript](https://ru.wikipedia.org/wiki/JSDoc)
+- [Babel is a JavaScript compiler](https://babeljs.io/)
+- []()
