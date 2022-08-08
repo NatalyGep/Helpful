@@ -56,3 +56,6 @@
 - [Elevator Saga The elevator programming game](https://play.elevatorsaga.com/)
 - [проверяем производительность 2 участков кода](https://jsben.ch/)
 - [jsbin исполняем js](https://jsbin.com/?html,output)
+- [Выразительный JavaScript: Функции](https://habr.com/ru/post/240349/)
+- [Функции высшего порядка в JavaScript](https://habr.com/ru/post/261723/)
+- []()
