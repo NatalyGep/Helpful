@@ -59,3 +59,4 @@
 - [Выразительный JavaScript: Функции](https://habr.com/ru/post/240349/)
 - [Функции высшего порядка в JavaScript](https://habr.com/ru/post/261723/)
 - [jsbench проверяем скорость выполнения кода](https://jsbench.me/)
+- [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
