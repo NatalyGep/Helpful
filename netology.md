@@ -61,3 +61,4 @@
 - [jsbench проверяем скорость выполнения кода](https://jsbench.me/)
 - [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
 - [wtfjs странности js](https://wtfjs.com/)
+- [Метод Даффа](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%94%D0%B0%D1%84%D1%84%D0%B0)
