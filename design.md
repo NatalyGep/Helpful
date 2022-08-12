@@ -527,6 +527,13 @@ Android (Google Material Design): https://material.io/guidelines/
 Шрифт: https://material.io/guidelines/resources/roboto-noto-fonts.html
 Навигация: https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
 
+- [Внутреннее руководство Рамблера по созданию иконок](https://medium.com/ramblerdesign/%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D1%80%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%D0%B0-%D0%BF%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%BA-a077c80f234b)
+- [Суперполезный гайд по созданию иконок для интерфейсов](https://vc.ru/design/50515-superpoleznyy-gayd-po-sozdaniyu-ikonok-dlya-interfeysov)
+- [System icons Material design](https://material.io/design/iconography/system-icons.html#grid-and-keyline-shapes)
+- [Компоненты в Фигме](https://kartashov.medium.com/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B-%D0%B2-%D1%84%D0%B8%D0%B3%D0%BC%D0%B5-8e9c6296c0b6)
+- [Я бог продуктивности: пять шагов, чтобы познать радость быстрых правок в ките Figma](https://vc.ru/design/111361-ya-bog-produktivnosti-pyat-shagov-chtoby-poznat-radost-bystryh-pravok-v-kite-figma)
+- [Перестань рисовать ячейки — большой гайд по Figma Auto Layout](https://vc.ru/design/111631-perestan-risovat-yacheyki-bolshoy-gayd-po-figma-auto-layout)
+- []()
 
 
 
