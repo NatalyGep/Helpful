@@ -34,3 +34,22 @@
 - [Знакомство с фронтендом](https://htmlacademy.ru/courses/intro-to-web-development)
 - [Интуит Национальный открытый институт](https://intuit.ru/)
 - [MetaLamp](https://www.metalamp.ru/education)
+- [DataCamp](https://www.datacamp.com/)
+- [Sources for studying](https://southern-break-a75.notion.site/Sources-for-studying-443e8ebbd72f4cffb810a9b331308674)
+- [Трудоустройство курс hexlet](https://ru.hexlet.io/courses/employment)
+- [Академия Яндекса](https://academy.yandex.ru/lp/open-lectures?utm_source=telegram&utm_medium=social&utm_campaign=open_lectures&utm_content=rusmarketing)
+- [Metaclass](https://metaclass.kts.studio/beginner_react)
+- [Frontend Start](https://itlogia.ru/intensive/front?utm_source=vk&utm_medium=post_anons&utm_campaign=17aug)
+- [SberGraduate](https://sbergraduate.ru/web-%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0/)
+- [Учебный центр Neoflex](https://edu.neoflex.ru/#rec236788967)
+- [result school](https://result.school/products)
+- [Роадмап начинающего фронтенд-разработчика](https://github.com/vika135/frontend-beginner-roadmap)
+- [Материалы для изучения](https://github.com/xxxwww/js-thread/blob/master/Wiki/learn.md)
+- [Metalamp](https://www.metalamp.ru/education)
+
+
+###Стажировка и учеба со стажировкой
+- [Тинькофф](https://fintech.tinkoff.ru/study/start/frontend/)
+- [Стажировка в Яндексе](https://yandex.ru/yaintern/?utm_source=all_email&utm_medium=email&utm_campaign=internship&utm_term=23.06.2022)
+- [Тинькофф](https://fintech.tinkoff.ru/study/start/?utm_source=telegram_fintech&utm_medium=smm.unp&utm_campaign=study.start_exam&dsp_click_id=ec0839fa-60bb-41a3-a5a2-19a922f1aa37)
+- [yandex](https://yandex.ru/yaintern/)
