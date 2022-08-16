@@ -1,1 +1,2 @@
-- [Как Учить Чёртов Английский](https://docs.google.com/document/d/12fqJZgqsFd8ziXSeSDf0pgHMej6tdmnCbpIvwQQGK8k/mobilebasic)
+- [Как Учить Чёртов Английский](https://docs.google.com/document/d/12fqJZgqsFd8ziXSeSDf0pgHMej6tdmnCbpIvwQQGK8k/mobilebasic())
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-display)
