@@ -68,3 +68,4 @@
 - [JavaScript Validation API](https://www.w3schools.com/js/js_validation_api.asp)
 - [ECMAScript](https://github.com/tc39/ecma262)
 - [Краткое руководство по работе с терминалом](https://github.com/netology-code/ajs-homeworks/blob/ajs8/terminal.md)
+- [npm Docs](https://docs.npmjs.com/)
