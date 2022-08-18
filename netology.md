@@ -69,3 +69,4 @@
 - [ECMAScript](https://github.com/tc39/ecma262)
 - [Краткое руководство по работе с терминалом](https://github.com/netology-code/ajs-homeworks/blob/ajs8/terminal.md)
 - [npm Docs](https://docs.npmjs.com/)
+- [готовый .gitignore](https://github.com/github/gitignore/blob/main/Node.gitignore)
