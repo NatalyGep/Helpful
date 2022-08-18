@@ -71,3 +71,4 @@
 - [npm Docs](https://docs.npmjs.com/)
 - [готовый .gitignore](https://github.com/github/gitignore/blob/main/Node.gitignore)
 - [AIRBNB STYLEGUIDE](https://github.com/airbnb/javascript)
+- [Experimental Plugins Babel](https://babeljs.io/docs/en/plugins#experimental)
