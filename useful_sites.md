@@ -7,3 +7,6 @@
 - [Пишем двоичный сумматор в игре «Жизнь» на JavaScript](https://bespoyasov.ru/blog/binary-adder-in-the-game-of-life/)
 - [frontend-skills макеты для реализации](https://frontend-skills.com/)
 - [grid layoutit](https://grid.layoutit.com/)
+- [typingtest тренер для быстрой печати](https://www.typingtest.com/trainer/)
+- [keybr тренер для быстрой печати](https://www.keybr.com/)
+- [typingstudy тренер для быстрой печати](https://www.typingstudy.com/)
