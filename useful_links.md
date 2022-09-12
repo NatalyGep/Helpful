@@ -27,4 +27,5 @@
 - [Быстрый поисковик торрентов среди русских и зарубежных трекеров](https://gw1.torlook.info/)
 - [makefrontendshitagain just fun](https://makefrontendshitagain.party/)
 - [unicode-table](https://unicode-table.com/en/)
+- [metanit](https://metanit.com/)
 
