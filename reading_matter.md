@@ -19,3 +19,5 @@
 - [Как фронты могут сделать жизнь дизайнеров легче](https://teletype.in/@romanshamin/what-design-want-from-frontend)
 - [Мои вопросы работодателю, когда подаюсь на разработчика](https://habr.com/ru/post/676108/)
 - [300+ вопросов с собеседований по JavaScript. Часть 1, уровень — Junior](https://techrocks.ru/2021/01/07/javascript-job-interview-questions-junior/)
+- [Garbage Collection наглядно](https://habr.com/ru/post/112676/)
+- 
