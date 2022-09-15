@@ -28,4 +28,5 @@
 - [makefrontendshitagain just fun](https://makefrontendshitagain.party/)
 - [unicode-table](https://unicode-table.com/en/)
 - [metanit](https://metanit.com/)
+- [Интерфейсы, основанные на Event](https://developer.mozilla.org/ru/docs/Web/API/Event)
 
