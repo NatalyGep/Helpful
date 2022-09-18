@@ -1,12 +1,1 @@
-- [Ant Design Icon](https://ant.design/components/icon/)
-- [Modern browsers support 140 named colors for HTML and CSS](https://htmlcolorcodes.com/color-names/)
-- [WebGradients is a free collection of 180 linear gradients](https://webgradients.com/)
-- [LearnGitBranching учимся GIT](https://learngitbranching.js.org/?locale=ru_RU)
-- [Курс по Emmet](https://epixx.github.io/emmet/)
-- [Тренировочные контесты для стажёров ](https://budu.notion.site/d1dfaecab10a4c57b086efb1e1bf43eb)
-- [Пишем двоичный сумматор в игре «Жизнь» на JavaScript](https://bespoyasov.ru/blog/binary-adder-in-the-game-of-life/)
-- [frontend-skills макеты для реализации](https://frontend-skills.com/)
-- [grid layoutit](https://grid.layoutit.com/)
-- [typingtest тренер для быстрой печати](https://www.typingtest.com/trainer/)
-- [keybr тренер для быстрой печати](https://www.keybr.com/)
-- [typingstudy тренер для быстрой печати](https://www.typingstudy.com/)
+
