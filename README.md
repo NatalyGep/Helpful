@@ -22,7 +22,7 @@
 - [codecombat game](https://codecombat.com/play)
 
 
-Рекомендуемые FTP клиенты:
+### Рекомендуемые FTP клиенты:
 - [FileZilla](https://filezilla-project.org/download.php?type=client) 
 - [FTPRush](http://www.wftpserver.com/)
 - [WinSCP](http://winscp.net/)
@@ -34,7 +34,7 @@
 - [Русская документация по API jQuery](https://jquery-docs.ru/)
 - [Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit)
 
-Консоли
+### Консоли
 - [Conemu](http://www.conemu.ru/ )
 - [Cmder](http://gooseberrycreative.com/cmder/)
 - [iterm 2 (только mac OS)](http://iterm2.com/)
@@ -46,7 +46,7 @@
 - [browsersync](https://browsersync.io/)
 
 
-Основные библиотеки для работы с SVG
+### Основные библиотеки для работы с SVG
 - [Vivus](http://maxwellito.github.io/vivus/)
 - [Bonsai](https://bonsaijs.org/)
 - [Velocity](http://julian.com/research/velocity/)
@@ -57,7 +57,7 @@
 - [Walkway](https://github.com/ConnorAtherton/walkway)
 - [Highcharts JS](https://www.highcharts.com/)
 
-Примеры и учебники: 
+### Примеры и учебники: 
 
 - [Примеры svg-графики с применением фильтров обработки изображений](https://github.com/upbyte/svg)
 - [Учебник на русском](https://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-1-organizaciya-dokumenta.html)
@@ -67,7 +67,7 @@
 - [Быстрые и простые диаграммы на svg](http://benpickles.github.io/peity/)
 - [Эффекты blur на svg](https://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/)
 
-Подключение иконок и полезности:
+### Подключение иконок и полезности:
 
 - [Как мы используем SVG-спрайты(новый способ)](http://glivera-team.github.io/svg/2016/06/13/svg-sprites-2.html)
 - [SVG-иконки – много и со стилем](https://habr.com/ru/company/developersoft/blog/269331/)
@@ -78,20 +78,20 @@
 - [Хранилище популярных лого на SVG](https://svgporn.com/)
 - [Онлайн генератор svg спрайтов](https://iconizr.com/)
 
-PSD 
+### PSD 
 - [365psd PSD, векторные и графические файлы для бесплатного скачивания](http://ru.365psd.com/)
 - [Free PSD Website Design Templates freebiesbug](http://freebiesbug.com/psd-freebies/website-template/)
 - [Free PSD Files & Templates blazrobar](http://blazrobar.com/free-psd-website-templates/)
 - [Premium & Free Psd Web Templates pixeden](http://www.pixeden.com/psd-web-templates)
 - [60 Free Beautiful PSD Website Templates to Download hongkiat](http://www.hongkiat.com/blog/really-beautiful-psd-web-templates/)
 
-Сервисы по разработке 
+### Сервисы по разработке 
 - [smashingmagazine](https://www.smashingmagazine.com/)
 - [css-tricks](https://css-tricks.com/)
 - [Codrops](http://tympanus.net/codrops/)
 - [David Walsh Blog](https://davidwalsh.name/)
 
-Фотостоки
+### Фотостоки
 
 - [unsplash](https://unsplash.com/)
 - [littlevisuals](http://littlevisuals.co/)
@@ -123,7 +123,7 @@ PSD
 - [Jade — препроцессор HTML и шаблонизатор](https://www.reclamare.ua/blog/jade-preprocessor-html-i-shablonizator/)
 - [Colors Tutorial](https://www.w3schools.com/colors/default.asp)
 
-##HTML-генераторы
+### HTML-генераторы
 - [image-maps](https://www.image-maps.com/)
 - [Create animated HTML5 Banners Gif, Mp4 & Png display ads](https://onlymega.com/#/)
 - [HTML Minifier](http://kangax.github.io/html-minifier/)
@@ -134,7 +134,7 @@ PSD
 - [Сервис HTML5 Please содержит информацию о поддержке браузерами всех новых API стандарта HTML5](https://html5please.com/)
 - [FormLinter найдёт на сайте формы и проверит, есть ли у них проблемы с доступностью](https://formlinter.com/)
 
-##Видеоконвертеры 
+### Видеоконвертеры 
 - [CloudConvert — онлайн-конвертер файлов](https://cloudconvert.com/)
 - [ONLINE-CONVERT](https://www.online-convert.com/ru)
 - [Firefogg — модуль расширения для Firefox, может создавать видеофайлы Theora и WebM](http://www.firefogg.org/)
