@@ -1,4 +1,4 @@
-##Нетология 
+## Нетология 
 - [История версий JavaScript](https://en.wikipedia.org/wiki/ECMAScript#Versions)
 - [Сравнение браузерных движков](https://en.wikipedia.org/wiki/Comparison_of_browser_engines)
 - [RSS читалка онлайн](https://feedly.com/)
@@ -49,7 +49,7 @@
 - [Преобразовать любую картинку в вектор](https://www.base64-image.de/)
 - [css-tricks](https://css-tricks.com/)
 
-##JavaScript блок
+## JavaScript блок
 - [Repl.it Use our free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup](https://replit.com/)
 - [LearnCode.academy youtube](https://www.youtube.com/c/learncodeacademy/playlists)
 - [Хекслет yotube](https://www.youtube.com/c/HexletOrg/playlists)
