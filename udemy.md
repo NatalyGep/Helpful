@@ -1,4 +1,4 @@
-##Компетенция верстальщика Udemy
+### Компетенция верстальщика Udemy
 
 - [Шпаргалкa по работе с Emmet](https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/)
 - [Самоучитель от W3](https://www.w3schools.com/)
