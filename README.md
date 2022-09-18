@@ -38,9 +38,8 @@
 - [Conemu](http://www.conemu.ru/ )
 - [Cmder](http://gooseberrycreative.com/cmder/)
 - [iterm 2 (только mac OS)](http://iterm2.com/)
-- [git bash](http://git-scm.com/downloads )
+- [git bash](http://git-scm.com/downloads )- 
 - [	Console2](http://sourceforge.net/projects/console/) 
-
 - [bower](http://bower.io/)
 - [Алиасы](https://githowto.com/ru/aliases)
 - [Использование Git. Параметр AutoCRLF](https://jenyay.net/Git/Autocrlf)
