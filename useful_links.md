@@ -30,3 +30,35 @@
 - [metanit](https://metanit.com/)
 - [Интерфейсы, основанные на Event](https://developer.mozilla.org/ru/docs/Web/API/Event)
 
+### Фотостоки
+- [unsplash](https://unsplash.com/)
+- [littlevisuals](http://littlevisuals.co/)
+- [deathtothestockphoto](http://join.deathtothestockphoto.com/)
+- [twnsnd](http://nos.twnsnd.co/)
+- [superfamous](http://superfamous.com/)
+- [picjumbo](http://picjumbo.com/)
+- [gratisography](http://www.gratisography.com/)
+- [imcreator](http://www.imcreator.com/free)
+- [stocksy](http://www.stocksy.com/)
+- [snapwi](https://www.snapwi.re/)
+- [getrefe](http://getrefe.com/)
+- [filterandformat](http://www.filterandformat.com/)
+- [istockphoto](http://www.istockphoto.com/article_view.php?ID=790)
+- [techandall](http://www.techandall.com/)
+- [stocksy](http://www.stocksy.com/search?src=head&text=workspace%20background)
+- [allthefreestock](http://allthefreestock.com/)
+- [heroheaders](http://heroheaders.com/)
+- [mockupzone](http://store.mockupzone.com/?portfolio=art-equipments-scene-generator-2)
+- [mooxidesign](http://mooxidesign.com/25-creative-hero-header-mockup-templates-for-designers/)
+- [pixabay](http://pixabay.com/)
+- [moockup](http://moockup.me/)
+- [stocksnap](https://stocksnap.io/)
+
+
+### PSD 
+- [365psd PSD, векторные и графические файлы для бесплатного скачивания](http://ru.365psd.com/)
+- [Free PSD Website Design Templates freebiesbug](http://freebiesbug.com/psd-freebies/website-template/)
+- [Free PSD Files & Templates blazrobar](http://blazrobar.com/free-psd-website-templates/)
+- [Premium & Free Psd Web Templates pixeden](http://www.pixeden.com/psd-web-templates)
+- [60 Free Beautiful PSD Website Templates to Download hongkiat](http://www.hongkiat.com/blog/really-beautiful-psd-web-templates/)
+
