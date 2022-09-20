@@ -46,6 +46,7 @@
 - [Роадмап начинающего фронтенд-разработчика](https://github.com/vika135/frontend-beginner-roadmap)
 - [Материалы для изучения](https://github.com/xxxwww/js-thread/blob/master/Wiki/learn.md)
 - [Metalamp](https://www.metalamp.ru/education)
+- [learn](https://www.learn-html.org/)
 
 
 ###Стажировка и учеба со стажировкой
