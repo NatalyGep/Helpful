@@ -46,4 +46,5 @@
 - [генератор документации - смотрим все значения для написания документации к коду](https://ru.wikipedia.org/wiki/JSDoc)
 - [Спецификация ECMAScript](https://ru.wikipedia.org/wiki/JSDoc)
 - [Babel is a JavaScript compiler](https://babeljs.io/)
-- []()
+- [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
+- [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
