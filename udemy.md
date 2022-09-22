@@ -74,3 +74,10 @@
 - [Github Pages](https://pages.github.com/)
 - [Планировщик задач gulp](https://gulpjs.com/)
 
+### Азбука JavaScript
+- [Справочник по JavaScript](https://flagman.top/spravochnik-po-javascript)
+- [Отладка JavaScript в Google Chrome и Visual Studio Code](https://medium.com/devschacht/%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-javascript-%D0%B2-google-chrome-%D0%B8-visual-studio-code-c2f07603a5b8)
+- [Секретные хаки VS Code](https://habr.com/ru/post/435770/)
+- [Visual Studio Code. Настройка и применение. Часть 1](https://medium.com/@p1t1ch/visual-studio-code-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-7f1a26806522#2b07)
+- [Редактор кода Visual Studio Code. Самый подробный гайд по настройке и установке плагинов для начинающих](https://habr.com/ru/post/490754/)
+
