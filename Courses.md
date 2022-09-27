@@ -47,6 +47,7 @@
 - [Материалы для изучения](https://github.com/xxxwww/js-thread/blob/master/Wiki/learn.md)
 - [Metalamp](https://www.metalamp.ru/education)
 - [learn](https://www.learn-html.org/)
+- [school.hh.ru](https://school.hh.ru/#2)
 
 
 ###Стажировка и учеба со стажировкой
