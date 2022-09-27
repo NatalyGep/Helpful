@@ -42,6 +42,7 @@
 - [keybr тренер для быстрой печати](https://www.keybr.com/)
 - [typingstudy тренер для быстрой печати](https://www.typingstudy.com/)
 - [Список русскоязычных локальных it-сообществ](https://github.com/Hexlet/ru-local-communities)
+- [jspaint](https://jspaint.app/#local:8273fe30e627c)
 
 
 ### Фотостоки
