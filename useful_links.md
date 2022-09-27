@@ -41,6 +41,7 @@
 - [typingtest тренер для быстрой печати](https://www.typingtest.com/trainer/)
 - [keybr тренер для быстрой печати](https://www.keybr.com/)
 - [typingstudy тренер для быстрой печати](https://www.typingstudy.com/)
+- [Список русскоязычных локальных it-сообществ](https://github.com/Hexlet/ru-local-communities)
 
 
 ### Фотостоки
