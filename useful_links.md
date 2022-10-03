@@ -44,9 +44,9 @@
 - [Список русскоязычных локальных it-сообществ](https://github.com/Hexlet/ru-local-communities)
 - [jspaint](https://jspaint.app/#local:8273fe30e627c)
 - [Приоритет операторов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-- [jsonplaceholder](https://jsonplaceholder.typicode.com/)
-- [fiddler](https://www.telerik.com/download/fiddler)
-- [postman](https://www.postman.com/)
+- [jsonplaceholder Free fake API for testing and prototyping](https://jsonplaceholder.typicode.com/)
+- [fiddler Get started with the free web debugging proxy tool exclusively for Windows](https://www.telerik.com/download/fiddler)
+- [Postman is an API platform for building and using APIs](https://www.postman.com/)
 
 
 ### Фотостоки
