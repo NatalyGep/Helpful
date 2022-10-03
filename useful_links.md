@@ -44,6 +44,7 @@
 - [Список русскоязычных локальных it-сообществ](https://github.com/Hexlet/ru-local-communities)
 - [jspaint](https://jspaint.app/#local:8273fe30e627c)
 - [Приоритет операторов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+- [jsonplaceholder]()https://jsonplaceholder.typicode.com/
 
 
 ### Фотостоки
