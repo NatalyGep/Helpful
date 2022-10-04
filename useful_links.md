@@ -47,6 +47,7 @@
 - [jsonplaceholder Free fake API for testing and prototyping](https://jsonplaceholder.typicode.com/)
 - [fiddler Get started with the free web debugging proxy tool exclusively for Windows](https://www.telerik.com/download/fiddler)
 - [Postman is an API platform for building and using APIs](https://www.postman.com/)
+- [github gist Instantly share code, notes, and snippets](https://gist.github.com/)
 
 
 ### Фотостоки
