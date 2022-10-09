@@ -599,6 +599,70 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Events bubbling и events capturing](https://habr.com/ru/post/126471/)
 - [Как работает JS: цикл событий, асинхронность и пять способов улучшения кода с помощью async / await](https://habr.com/ru/company/ruvds/blog/340508/)
 - [Определение кода любой кнопки](https://www.toptal.com/developers/keycode)
+ 
+### 5
+- [Спагетти-код](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D0%B3%D0%B5%D1%82%D1%82%D0%B8-%D0%BA%D0%BE%D0%B4)
+- [Выразительный JavaScript: Модули](https://habr.com/ru/post/243273/)
+- [Всё, что вы хотели знать об областях видимости в JavaScript (но боялись спросить)](https://habr.com/ru/post/239863/)
+- [Learn JavaScript Closures with Code Examples](https://www.freecodecamp.org/news/lets-learn-javascript-closures-66feb44f6a44#.i3kdfkj4t)
+- [A Brief History of Modularity](https://ponyfoo.com/articles/brief-history-of-modularity)
+- [JavaScript: путь к ясности кода](https://habr.com/ru/company/ruvds/blog/342404/)
+  
+  ### 6
+- [Ад обратных вызовов](http://callbackhell.ru/)
+- [AJAX для новичков](https://habr.com/ru/post/14246/)
+- [JSONP](https://ru.wikipedia.org/wiki/JSONP)
+- [Путь к HTTP/2](https://habr.com/ru/post/308846/)
+- [Список кодов состояния HTTP](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_HTTP)
+- [XML](https://ru.wikipedia.org/wiki/XML)
+  
+  ### 7
+- [Ключевое слово this в javascript — учимся определять контекст на практике](https://habr.com/ru/post/149516/)
+- [JavaScript без this](https://habr.com/ru/company/ruvds/blog/334222/)
+- [This in JavaScript](https://zellwk.com/blog/this/)
+- [What is This in JavaScript?](https://www.telerik.com/blogs/what-is-this-in-javascript)
+- [The many faces of `this` in javascript](https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e)
+- [JavaScript без циклов](https://habr.com/ru/company/ruvds/blog/322850/)
+- [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [Бинарный поиск в JavaScript. Практический пример](https://habr.com/ru/post/335750/)
+- [Learn & Understand JavaScript’s Reduce Function](https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc)
+- [Does it mutate ](https://doesitmutate.xyz/)
+- [Which Array Function When?](https://dev.to/andrew565/which-array-function-when)
+  
+  ### 8
+- [Наследование в JavaScript: скандалы, интриги, расследования](https://dikmax.name/post/jsinheritance/)
+- [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript/)
+- [«Сложно о простом». Функции-конструкторы — как объекты,(prototype). Объекты,(__proto__). constructor, ={}, как функция-конструктор new Object()](https://habr.com/ru/post/151070/)
+- [Создание объектов в Javascript](https://habr.com/ru/post/119391/)
+- [Объектно-ориентированный JavaScript: функции конструкторы](http://jsraccoon.ru/oop-constructors)
+- [Хороший плохой манкипатчинг — HTML Шорты](https://www.youtube.com/watch?v=_1zIZhtZYek)
+  
+  ### 9
+- [Wat](https://www.destroyallsoftware.com/talks/wat)
+- [Javascript Anomaly Page](https://github.com/ufocoder/javascript.anomaly)
+- [Почему WAT](https://habr.com/ru/post/137188/)
+- [enki - упражнения](https://www.enki.com/)
+- [Область видимости в JavaScript и «поднятие» переменных и объявлений функций](https://habr.com/ru/post/127482/)
+- [Understanding Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
+- [Что за черт, Javascript](https://habr.com/ru/company/vk/blog/335292/)
+- [Непрактичные сортировки – бессмысленные и беспощадные](https://habr.com/ru/post/198114/)
+- [JavaScript FizzBuzz](https://learnjswith.me/javascript-fizzbuzz/)
+- [Beyond typeof and instanceof: simplifying dynamic type checks](https://2ality.com/2017/08/type-right.html)
+- [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+- [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
+- [Банан велик, а кожура еще больше](https://bolknote.ru/all/about-zero-vs-null/)
+  
+  ### 10
+ - [ECMAScript 5.1 с аннотациями](https://es5.javascript.ru/)
+ - [Выразительный JavaScript: Введение](https://habr.com/ru/post/240219/)
+ - [8 идей для создания первого сайта](https://htmlacademy.ru/blog/html/8-crazy-idea-for-site)
+ - [The language of programming](https://temochka.com/blog/posts/2017/06/28/the-language-of-programming.html)
+ - [JavaScript for People Who Hate JavaScript](https://zachholman.com/posts/javacript-haters)
+ - [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
+ - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+ - [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
+  
+  
 
 
 
