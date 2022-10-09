@@ -583,6 +583,24 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Specifications](https://www.webcomponents.org/specs)
 - [DocumentFragment: что это такое и как с ним (не) бороться](https://habr.com/ru/post/413287/)
 
+### 4 
+- [Things you probably didn’t know you could do with Chrome’s Developer Console](https://www.freecodecamp.org/news/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.zgf9ngxql)
+- [Philip Roberts: Help, I’m stuck in an](https://vimeo.com/96425312)
+- [Styling SVG <use> Content with CSS](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
+- [Выразительный JavaScript: Формы и поля форм](https://habr.com/ru/post/245731/)
+- [Introduction to Forms](https://www.quirksmode.org/js/forms.html)
+- [Техники валидации форм](https://htmlacademy.ru/blog/js/form-validation-techniques)
+- [Offline-Friendly Forms](https://mxb.dev/blog/offline-forms/)
+- [Браузерные события в Javascript](https://urvanov.ru/2015/12/13/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F-%D0%B2-javascript/)
+- [Выразительный JavaScript: Обработка событий](https://habr.com/ru/post/244041/)
+- [События](https://developers.google.com/maps/documentation/javascript/events?hl=ru)
+- [Делегирование событий в JavaScript](https://www.cat-in-web.ru/delegirovanie-sobytij-v-javascript/)
+- [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
+- [Events bubbling и events capturing](https://habr.com/ru/post/126471/)
+- [Как работает JS: цикл событий, асинхронность и пять способов улучшения кода с помощью async / await](https://habr.com/ru/company/ruvds/blog/340508/)
+- [Определение кода любой кнопки](https://www.toptal.com/developers/keycode)
+
+
 
 
 
