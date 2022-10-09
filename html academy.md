@@ -1,4 +1,4 @@
-##1
+## 1
 
 - [Обзор редакторов для верстальщика.](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 
@@ -29,7 +29,7 @@
 - [Как оформлять коммиты, чтобы потом не было больно.](https://habr.com/company/voximplant/blog/276695/)
 - [Статья про разницу между LF и CRLF.](https://htmlacademy.ru/blog/389-konec-stroki)
 
-##2
+## 2
 ### Ответы на вопросы и обсуждение
 
 - [Вопросы к разделу «Разметка»](https://gist.github.com/pepelsbey/455dd8d191e49b0836bae79c04fc599e).
@@ -65,7 +65,7 @@
 - [Google HTML/CSS Style Guide (перевод).](https://google.github.io/styleguide/htmlcssguide.html)
 - Idiomatic CSS http://github.com/necolas/idiomatic-css
 
-##3
+## 3
 
 ### Ответы на вопросы и обсуждения
 
@@ -110,7 +110,7 @@
   - [FileOptimizer для Windows.](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer)
   - Консоль: svgo https://github.com/svg/svgo
 
-##4
+## 4
 
 ### Ответы на вопросы и обсуждение
 
@@ -146,7 +146,7 @@
 - [Доступность динамических веб компонентов](https://youtu.be/MbtrzoTmWLo).
 - Жми сюда! - https://www.youtube.com/watch?v=MWJKwn_gKR4
 
-##5
+## 5
 
 ### Ответы на вопросы и обсуждение
 
@@ -183,7 +183,7 @@
 Поддержка в CSS шрифтов: https://www.cssfontstack.com/
 Генерируем ttf в woff форматы: https://www.fontsquirrel.com/tools/webfont-generator 
 
-##6
+## 6
 
 ### Ответы на вопросы и обсуждение
 
@@ -233,7 +233,7 @@ Flexbox-песочница flexyboxes - https://the-echoplex.net/flexyboxes/
 Smashing Magazine. Harnessing Flexbox For Today’s Web Apps - https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/
 Руководство от MDN. Using CSS flexible boxes - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
-#7
+## 7
 ### Ответы на вопросы и обсуждение
 
 - [Вопросы к разделу «Декоративные элементы»](https://gist.github.com/nikolai-shabalin/2e837ebfc0bf29773e540a37260594e5).
@@ -276,7 +276,7 @@ Smashing Magazine. Harnessing Flexbox For Today’s Web Apps - https://www.smash
 Форум сайта openssource (cкладчины, различные материалы и масса всего интересного!): https://openssource.info
 Открой любой хайд на автомате с аналогичных (конкурентов) форума openssource: https://eliteservice.me
 
-##8
+## 8
 
 ### Ответы на вопросы и обсуждение
 
@@ -304,7 +304,7 @@ Smashing Magazine. Harnessing Flexbox For Today’s Web Apps - https://www.smash
 CSS css.github.io/csso/csso.html
 JavaScript https://jscompress.com
 
-##9
+## 9
 ### Основы JavaScript
 
 - [Что такое DOM?](https://developer.mozilla.org/ru/docs/DOM/DOM_Reference/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
@@ -333,7 +333,7 @@ JavaScript https://jscompress.com
 - [Справочник Mozilla Developer Network.](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Современный учебник JavaScript.](https://learn.javascript.ru/)
 
-##10
+## 10
 
 ### Прогрессивное улучшение
 
@@ -408,7 +408,7 @@ DevSchacht - https://soundcloud.com/devschacht
 Коллекция примеров "Grid by example" - https://gridbyexample.com/
 Experimental layout lab - https://labs.jensimmons.com/
 
-##11
+## 11
 
 ### Поиск работы
 
@@ -536,4 +536,53 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Responsive Images](http://brucelawson.github.io/talks/2015/awwwards/)
 - [Полифил для picture](http://scottjehl.github.io/picturefill/)
 - [Какие нужны фавиконки](https://htmlacademy.ru/blog/articles/short-18)
+
+## Профессиональный Javascript, уровень 1
+
+## 1
+- [Подключение JavaScript кода](https://dvmn.org/encyclopedia/frontend/frontend_plug_js/)
+- [Опыт программирования на Javascript](https://kaineer.gitbooks.io/coding-in-javascript/content/)
+- [Полезные команды для работы с Git](https://htmlacademy.ru/blog/git/useful-commands-for-working-with-git)
+- [Словарь терминов для Git и GitHub](https://htmlacademy.ru/blog/git/git-and-github-glossary)
+- [Работа с Git через консоль](https://htmlacademy.ru/blog/git/git-console)
+
+## 2
+- [(Законы Акина) законы космической инженерии](https://habr.com/ru/post/354936/)
+- [Коллекция часто задаваемых вопросов](http://firstaidgit.ru/#/)
+- [Как склеить коммиты и зачем это нужно](https://htmlacademy.ru/blog/git/how-to-squash-commits-and-why-it-is-needed)
+- [Как оформлять коммиты, чтобы потом не было больно](https://habr.com/ru/company/Voximplant/blog/276695/)
+- [Как сделать красивую консоль в Mac и Linux](https://htmlacademy.ru/blog/soft/how-to-make-a-beautiful-console-for-mac-and-linux)
+
+### Алгоритмы
+- [Планета Информатики ](https://inf1.info/index.php/algorithmtype)
+- [Про алгоритмы для новичков](https://proglib.io/p/what-is-an-algorithm)
+- [Сортировки в гифках: 8 самых популярных алгоритмов](https://proglib.io/p/sort-gif)
+- [Об основах алгоритмов сортировки в иллюстрациях](https://proglib.io/p/sorting-guide)
+
+### Векторная графика
+- [Выводим текст на HTML5 Canvas](https://habr.com/ru/post/140235/)
+- [Подробный справочник по canvas с примерами](http://bucephalus.org/text/CanvasHandbook/CanvasHandbook.html)
+- [Руководство по Canvas](https://developer.mozilla.org/ru/docs/Web/API/Canvas_API/Tutorial)
+
+### Массивы и объекты
+- [Массивы и объекты в JavaScript как книги и газеты](https://htmlacademy.ru/blog/js/javascript-arrays-and-objects-are-just-like-books-and-newspapers)
+
+- [Repeat statements](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)
+- [Как работает рекурсия – объяснение в блок-схемах и видео](https://habr.com/ru/post/337030/)
+- [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+- [ Проверка кода — ESLint (на английском)](https://eslint.org/docs/latest/user-guide/integrations)
+- [Learn how to handle JavaScript Errors with Try, Throw, Catch, & Finally](https://codeburst.io/learn-how-to-handle-javascript-errors-with-try-throw-catch-finally-83b4f9ef8c6f)
+
+### 3
+- [Выразительный JavaScript: Document Object Model (объектная модель документа)](https://habr.com/ru/post/243815/)
+- [Discover the DOM](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter13.md)
+- [Building the DOM faster: speculative parsing, async, defer and preload](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
+- [Create your first objects](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)
+- [JavaScript метод insertAdjacentHTML и beforeend](https://habr.com/ru/post/235333/)
+- [Understanding Object Cloning in Javascript - Part. I](https://blog.soulserv.net/understanding-object-cloning-in-javascript-part-i/)
+- [Specifications](https://www.webcomponents.org/specs)
+- [DocumentFragment: что это такое и как с ним (не) бороться](https://habr.com/ru/post/413287/)
+
+
+
 
