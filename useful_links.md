@@ -49,6 +49,7 @@
 - [Postman is an API platform for building and using APIs](https://www.postman.com/)
 - [github gist Instantly share code, notes, and snippets](https://gist.github.com/)
 - [jsdoc](https://jsdoc.app/index.html)
+- [github REST API](https://docs.github.com/en/rest)
 
 
 ### Фотостоки
