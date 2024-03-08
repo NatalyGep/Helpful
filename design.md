@@ -25,7 +25,7 @@
 - [The 15 best free Photoshop Scripts](http://www.creativebloq.com/photoshop/free-scripts-4132388)
 ### Где брать вдохновление
 Сайты
-• http://bm.straightline.jp — японский агрегатор
+- (http://bm.straightline.jp)[японский агрегатор]
 • http://awwwards.com — всемирный
 • https://typewolf.com — агрегатор типографики
 • http://calltoidea.com — идеи по категориям
