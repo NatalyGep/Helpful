@@ -50,7 +50,7 @@
 - [school.hh.ru](https://school.hh.ru/#2)
 
 
-###Стажировка и учеба со стажировкой
+### Стажировка и учеба со стажировкой
 - [Тинькофф](https://fintech.tinkoff.ru/study/start/frontend/)
 - [Стажировка в Яндексе](https://yandex.ru/yaintern/?utm_source=all_email&utm_medium=email&utm_campaign=internship&utm_term=23.06.2022)
 - [Тинькофф](https://fintech.tinkoff.ru/study/start/?utm_source=telegram_fintech&utm_medium=smm.unp&utm_campaign=study.start_exam&dsp_click_id=ec0839fa-60bb-41a3-a5a2-19a922f1aa37)
