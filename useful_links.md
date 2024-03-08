@@ -85,7 +85,6 @@
 - [Free PSD Files & Templates blazrobar](http://blazrobar.com/free-psd-website-templates/)
 - [Premium & Free Psd Web Templates pixeden](http://www.pixeden.com/psd-web-templates)
 - [60 Free Beautiful PSD Website Templates to Download hongkiat](http://www.hongkiat.com/blog/really-beautiful-psd-web-templates/)
-
 - [Определяйте фактическую производительность сайта](https://pagespeed.web.dev/)
 - [w3docs Онлайн учебники и справочные материалы по HTML, CSS и JavaScript](https://ru.w3docs.com/)
 - [Markdown online Editor](https://dillinger.io/)
