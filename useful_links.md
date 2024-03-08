@@ -52,7 +52,6 @@
 - [github REST API](https://docs.github.com/en/rest)
 - [tc39 EcmaScript github](https://github.com/tc39)
 
-
 ### Фотостоки
 - [unsplash](https://unsplash.com/)
 - [littlevisuals](http://littlevisuals.co/)
@@ -77,7 +76,6 @@
 - [moockup](http://moockup.me/)
 - [stocksnap](https://stocksnap.io/)
 - [Раздел Frontend](https://coursehunters.online/c/razdel-frontend/15)
-
 
 ### PSD 
 - [365psd PSD, векторные и графические файлы для бесплатного скачивания](http://ru.365psd.com/)
@@ -107,15 +105,12 @@
 - [vim adventures game](https://vim-adventures.com/)
 - [codecombat game](https://codecombat.com/play)
 
-
 ### Рекомендуемые FTP клиенты:
 - [FileZilla](https://filezilla-project.org/download.php?type=client) 
 - [FTPRush](http://www.wftpserver.com/)
 - [WinSCP](http://winscp.net/)
 - [Cyberduck]( https://cyberduck.io/)
 - [TRANSMIT](http://panic.com/transmit/)
-
-
 - [Учебник “jQuery для начинающих”](https://anton.shevchuk.name/jquery-book/)
 - [Русская документация по API jQuery](https://jquery-docs.ru/)
 - [Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html#mode=edit)
@@ -131,7 +126,6 @@
 - [Использование Git. Параметр AutoCRLF](https://jenyay.net/Git/Autocrlf)
 - [browsersync](https://browsersync.io/)
 
-
 ### Основные библиотеки для работы с SVG
 - [Vivus](http://maxwellito.github.io/vivus/)
 - [Bonsai](https://bonsaijs.org/)
@@ -144,7 +138,6 @@
 - [Highcharts JS](https://www.highcharts.com/)
 
 ### Примеры и учебники: 
-
 - [Примеры svg-графики с применением фильтров обработки изображений](https://github.com/upbyte/svg)
 - [Учебник на русском](https://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-1-organizaciya-dokumenta.html)
 - [Учебник Jacoba Jenkova](https://jenkov.com/tutorials/svg/index.html)
@@ -154,7 +147,6 @@
 - [Эффекты blur на svg](https://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/)
 
 ### Подключение иконок и полезности:
-
 - [Как мы используем SVG-спрайты(новый способ)](http://glivera-team.github.io/svg/2016/06/13/svg-sprites-2.html)
 - [SVG-иконки – много и со стилем](https://habr.com/ru/company/developersoft/blog/269331/)
 - [Animated SVG Icon](https://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
@@ -164,16 +156,11 @@
 - [Хранилище популярных лого на SVG](https://svgporn.com/)
 - [Онлайн генератор svg спрайтов](https://iconizr.com/)
 
-
-
 ### Сервисы по разработке 
 - [smashingmagazine](https://www.smashingmagazine.com/)
 - [css-tricks](https://css-tricks.com/)
 - [Codrops](http://tympanus.net/codrops/)
 - [David Walsh Blog](https://davidwalsh.name/)
-
-
-
 - [f.lux — это программное приложение, регулирующее цветовую температуру компьютерного монитора](https://justgetflux.com/)
 - [remixicon](https://remixicon.com/)
 - [15 CSS Blob Effects](https://freefrontend.com/css-blob-effects/)
@@ -198,4 +185,3 @@
 - [boxicons](https://boxicons.com/usage#import-css)
 - [Most Powerful Palette Generator](https://colors.dopely.top/)
 - [Bundlephobia helps you find the performance impact of npm packages](https://bundlephobia.com/)
-
