@@ -26,15 +26,15 @@
 ### Где брать вдохновление
 Сайты
 - [японский агрегатор](http://bm.straightline.jp)
-- (всемирный)[http://awwwards.com] 
-• https://typewolf.com — агрегатор типографики
-• http://calltoidea.com — идеи по категориям
-• http://land-book.com — лендинги
-• http://mediaqueri.es — адаптивные сайты
-• http://storepages.xyz — магазинные страницы
-• http://bestaboutpages.com — страницы о компании
-• http://emptystat.es — пустые страницы
-• http://csswinner.com
+- [всемирный](http://awwwards.com) 
+- [агрегатор типографики](https://typewolf.com) 
+- [идеи по категориям](http://calltoidea.com)
+- [ лендинги](http://land-book.com)
+- [адаптивные сайты](http://mediaqueri.es) 
+- [магазинные страницы](http://storepages.xyz)
+- [страницы о компании](http://bestaboutpages.com)
+- [пустые страницы](http://emptystat.es)
+- (http://csswinner.com)
 • http://cssdesignawards.com
 • http://cssdsgn.com
 • http://unmatchedstyle.com
