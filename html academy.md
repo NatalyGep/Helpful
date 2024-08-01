@@ -153,7 +153,7 @@
 - [Вопросы к разделу «Введение в CSS»](https://gist.github.com/nikolai-shabalin/ffc8cc6caefe1bfde199104167632f63).
 
 ### Работа с веб-шрифтами
-
+- [cssfontstack](https://www.cssfontstack.com/)
 - [Минимально необходимые шрифты](https://css-live.ru/articles/minimalno-neobxodimye-shrifty.html)
 - [Антипаттерн для веб-шрифтов: Data URI](https://css-live.ru/articles/antipattern-dlya-veb-shriftov-data-uri.html)
 - [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
