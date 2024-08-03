@@ -48,3 +48,4 @@
 - [Babel is a JavaScript compiler](https://babeljs.io/)
 - [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
 - [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
+- [Какие элементы могут содержаться внутри элемента <p>](https://stackoverflow.com/questions/9852312/list-of-html5-elements-that-can-be-nested-inside-p-element)
