@@ -317,6 +317,7 @@ JavaScript https://jscompress.com
 
 - [Клавиатурные события.](https://developer.mozilla.org/ru/docs/Web/Events)
 - [Как узнать код клавиши.](http://keycod.es/)
+- [keyCode](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode)
 
 ### Несколько статей на выходные
 
