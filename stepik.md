@@ -45,6 +45,7 @@
 - [библиотека stringTime.js для работы с временем в строковом формате](https://github.com/morphIsmail/stringTimeJS)
 - [генератор документации - смотрим все значения для написания документации к коду](https://ru.wikipedia.org/wiki/JSDoc)
 - [Спецификация ECMAScript](https://ru.wikipedia.org/wiki/JSDoc)
+- [Таблица символов эмодзи](https://snipp.ru/handbk/emoji)
 - [Babel is a JavaScript compiler](https://babeljs.io/)
 - [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
 - [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
