@@ -52,3 +52,4 @@
 - [Какие элементы могут содержаться внутри элемента <p>](https://stackoverflow.com/questions/9852312/list-of-html5-elements-that-can-be-nested-inside-p-element)
 - [Специальные символы HTML](https://htmlweb.ru/html/symbols.php)
 - [Таблица символов Юникода](https://symbl.cc/ru/unicode-table/)
+- [Загружайте и делитесь изображениями](https://wampi.ru/)
