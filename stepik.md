@@ -54,3 +54,4 @@
 - [Таблица символов Юникода](https://symbl.cc/ru/unicode-table/)
 - [Загружайте и делитесь изображениями](https://wampi.ru/)
 - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
+- [Adobe Color](https://color.adobe.com/ru/create/color-wheel)
