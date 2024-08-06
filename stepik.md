@@ -55,3 +55,4 @@
 - [Загружайте и делитесь изображениями](https://wampi.ru/)
 - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
 - [Adobe Color](https://color.adobe.com/ru/create/color-wheel)
+- [Сети для начинающего IT-специалиста. Обязательная база](https://habr.com/ru/articles/491540/)
