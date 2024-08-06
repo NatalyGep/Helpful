@@ -348,6 +348,7 @@ JavaScript https://jscompress.com
 - «Браузеры наши меньшие». [Слайды](http://wsd.events/2015/06/20/pres/little-browsers/) и [видеозапись доклада.](https://vimeo.com/151208337)
 - [Демонстрация «Прогрессивное улучшение на примере формы входа».](https://htmlacademy.ru/demos/1)
 - [Building Social: A Case Study On Progressive Enhancement.](https://www.smashingmagazine.com/2016/09/building-social-a-case-study-on-progressive-enhancement/)
+- [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/#preface)
 
 ### Тестирование и оптимизация
 
