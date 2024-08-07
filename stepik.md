@@ -61,3 +61,4 @@
 - [Стили по умолчанию Firefox](https://searchfox.org/mozilla-central/source/layout/style/res/html.css)
 - [Стили по умолчанию Safari1](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/css/html.css)
 - [Стили по умолчанию Safari2](https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
+- [colorscheme]{https://colorscheme.ru/html-colors.html}
