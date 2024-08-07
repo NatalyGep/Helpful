@@ -63,3 +63,5 @@
 - [Стили по умолчанию Safari2](https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
 - [colorscheme](https://colorscheme.ru/html-colors.html)
 - [Colors in CSS](https://ishadeed.com/article/css-color/)
+- [Забудьте про RGB и HEX](https://habr.com/ru/articles/496768/)
+- [Цвета в CSS](https://habr.com/ru/companies/ruvds/articles/505626/)
