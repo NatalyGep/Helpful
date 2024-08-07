@@ -56,3 +56,8 @@
 - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
 - [Adobe Color](https://color.adobe.com/ru/create/color-wheel)
 - [Сети для начинающего IT-специалиста. Обязательная база](https://habr.com/ru/articles/491540/)
+- [Стили по умолчанию Chromium1](https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/html/resources/html.css)
+- [Стили по умолчанию Chromium2](https://chromium.googlesource.com/chromium/blink/+/refs/heads/main/Source/core/css/html.css)
+- [Стили по умолчанию Firefox](https://searchfox.org/mozilla-central/source/layout/style/res/html.css)
+- [Стили по умолчанию Safari1](https://github.com/WebKit/WebKit/blob/main/Source/WebCore/css/html.css)
+- [Стили по умолчанию Safari2](https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
