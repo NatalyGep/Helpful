@@ -592,6 +592,27 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [optipng](https://optipng.sourceforge.net/)
 - [pngquant](https://pngquant.org/)
 
+
+
+### Погружение в автоматизацию
+- [package.json](https://docs.npmjs.com/cli/v10/configuring-npm/package-json)
+- [npm-install](https://docs.npmjs.com/cli/v10/commands/npm-install)
+- [Полезные команды для работы с Node.js](https://htmlacademy.ru/blog/js/useful-commands-for-working-with-nodejs)
+
+
+### Производительность
+- [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
+- [Для чего стоит использовать предварительную загрузку?](https://prgssr.ru/development/dlya-chego-stoit-ispolzovat-predzagruzku.html)
+- [Исчерпывающее руководство по стратегиям загрузки веб-шрифтов](https://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)
+- [Пат­тер­ны за­груз­ки веб-шриф­тов](https://web-standards.ru/articles/web-font-loading-patterns/)
+- [How New Font Technologies Will Improve The Web](https://www.smashingmagazine.com/2017/09/new-font-technologies-improve-web/)
+- [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
+- [CSS Triggers List](https://csstriggers.com/)
+- [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/)
+- [Придерживайтесь свойств только для композитора и управляйте количеством слоев](https://web.dev/articles/stick-to-compositor-only-properties-and-manage-layer-count?hl=ru)
+- [CSS font-display: The Future of Font Rendering on the Web](https://www.sitepoint.com/css-font-display-future-font-rendering-web/)
+
+
 ## Профессиональный Javascript, уровень 1
 
 ## 1
