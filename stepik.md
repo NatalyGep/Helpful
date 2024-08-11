@@ -65,3 +65,4 @@
 - [Colors in CSS](https://ishadeed.com/article/css-color/)
 - [Забудьте про RGB и HEX](https://habr.com/ru/articles/496768/)
 - [Цвета в CSS](https://habr.com/ru/companies/ruvds/articles/505626/)
+- [Тренажёр по выбору элементов на основе селекторов в игровой форме](https://flukeout.github.io/)
