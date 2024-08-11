@@ -612,6 +612,14 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Придерживайтесь свойств только для композитора и управляйте количеством слоев](https://web.dev/articles/stick-to-compositor-only-properties-and-manage-layer-count?hl=ru)
 - [CSS font-display: The Future of Font Rendering on the Web](https://www.sitepoint.com/css-font-display-future-font-rendering-web/)
 
+### С чем едят гриды 
+- [Cтатьи по тегу «CSS3 Grid Layout»](https://css-live.ru/tag/css3-grid-layout)
+- [Grid by Example](https://gridbyexample.com/)
+- [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+- [Experimental Layout Lab](https://labs.jensimmons.com/)
+- [CSS GRID.](https://cssgrid.io/)
+- [видео-курс CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
+
 
 ## Профессиональный Javascript, уровень 1
 
