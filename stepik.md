@@ -66,3 +66,4 @@
 - [Забудьте про RGB и HEX](https://habr.com/ru/articles/496768/)
 - [Цвета в CSS](https://habr.com/ru/companies/ruvds/articles/505626/)
 - [Тренажёр по выбору элементов на основе селекторов в игровой форме](https://flukeout.github.io/)
+- [CSS-селекторы. Шпаргалка для новичков](https://htmlacademy.ru/blog/css/selectors)
