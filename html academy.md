@@ -67,10 +67,6 @@
 
 ## 3
 
-### Ответы на вопросы и обсуждения
-
-- [Вопросы к разделу «Работа с графикой»](https://gist.github.com/nikolai-shabalin/c0c6cf2294eb795ba8e98b6e0191de3d)
-
 ### Закрепление навыка работы с графическими редакторами на кейсах
 
 - Профессиональный навык «[Экспорт параметров и графики из PSD‑макетов](https://htmlacademy.ru/skills/photoshop-workflow/payment)». Восемь дополнительных кейсов.
@@ -483,6 +479,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [prettier](https://prettier.io/)
 - [stylefmt](https://github.com/morishitter/stylefmt)
 - [-fix](https://stylelint.io/user-guide/usage/cli/#autofixing-errors)
+- [Cпецификация CSS 1 из 1996 года](https://www.w3.org/TR/CSS1/)
 
 ### Препроцессоры и автоматизация
 
@@ -492,6 +489,17 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Путеводитель по Less для новичков](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
 - [Возможности препроцессора sass](https://sass-lang.com/guide)
 - [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru/)
+- [lesscss.org ](https://lesscss.org/)
+- [lesstester.com](https://www.lesstester.com/)
+- [Dart Sass,](https://sass-lang.com/dart-sass/)
+- [LibSass](https://sass-lang.com/libsass/)
+- [Ruby Sass](https://sass-lang.com/ruby-sass/)
+- [sass-lang.com ](https://sass-lang.com/)
+- [sassmeister.com](https://www.sassmeister.com/)
+- [autoprefixer](https://github.com/postcss/autoprefixer)
+- [postcss](https://github.com/postcss/postcss)
+- [posthtml-include](https://github.com/posthtml/posthtml-include)
+- [posthtml](https://github.com/posthtml/posthtml)
 
 ### Адаптивные сетки
 
@@ -505,6 +513,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Harnessing Flexbox For Today’s Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
 - [Flexbox playground.](https://codepen.io/enxaneta/full/adLPwv/)
 - [flexbugs](https://github.com/philipwalton/flexbugs)
+- [Эмулятор вьюпортов от PPK](https://www.quirksmode.org/mobile/viewports/)
 
 ### Игры, помогающие понять flexbox
 
@@ -528,6 +537,7 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Адаптивная вёрстка](https://htmlacademy.ru/blog/articles/short-16)
 - [Мобильные браузеры и их пушистые лапки](https://habr.com/ru/company/zerotech/blog/336172/)
 - [Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/)
+- [Полноэкранные секции в 1 строку](https://codepen.io/ckor/full/VwOoBm)
 
 ### Адаптивная графика 
 
@@ -538,6 +548,49 @@ Experimental layout lab - https://labs.jensimmons.com/
 - [Responsive Images](http://brucelawson.github.io/talks/2015/awwwards/)
 - [Полифил для picture](http://scottjehl.github.io/picturefill/)
 - [Какие нужны фавиконки](https://htmlacademy.ru/blog/articles/short-18)
+- [imageoptim](https://imageoptim.com/api)
+- [подготовить favicon.ico xiconeditor](https://www.xiconeditor.com/)
+- [тонкости и с тач-иконками](https://mathiasbynens.be/notes/touch-icons)
+- [сервис для генерации фавиконок](https://realfavicongenerator.net/)
+- [Android Simulator](https://developer.android.com/studio?hl=ru)
+- [iOS Simulator](https://apps.apple.com/ru/app/xcode/id497799835)
+- [Picturefill — полифил](https://scottjehl.github.io/picturefill/)
+
+### Векторная графика и оптимизация
+- [Как правильно вставлять SVG](https://htmlacademy.ru/blog/html/short-4)
+- [Блог Юлии Бухваловой про SVG](http://css.yoksel.ru/tags/#svg)
+- [SVG в вебе Практическое руководство](https://svgontheweb.com/ru/)
+- [Integrating SVG into your site](https://www.heartinternet.uk/blog/integrating-svg-site/)
+- [svg-weirdness bugtracker](https://github.com/emilbjorklund/svg-weirdness/issues)
+- [From object to iframe — other embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
+- [Как проектировать, создавать и анимировать SVG](https://htmlacademy.ru/blog/html/a-guide-to-svg-on-web)
+- [SVG: группировка и переиспользование элементов](http://css.yoksel.ru/svg-groups-use/)
+- [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)
+- [svgxuse](https://github.com/Keyamoon/svgxuse)
+- [SVG for Everybody](https://github.com/jonathantneal/svg4everybody)
+- [Styling SVG <use> Content with CSS](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/)
+- [SVG-градиенты](http://css.yoksel.ru/svg-gradients/)
+- [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/)
+- [SVG Using Internal Media-Queries](https://vagari.github.io/svg_queries/)
+- [Coloring SVGs in CSS Background Images](https://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
+- [Snap.svg The JavaScript SVG library for the modern web](http://snapsvg.io/)
+- [Raphaël—JavaScript Library](https://dmitrybaranovskiy.github.io/raphael/)
+- [Доступные SVG](https://prgssr.ru/development/dostupnye-svg.html)
+- [A Complete Guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/)
+- [Tips for Creating and Exporting Better SVGs for the Web](https://www.sarasoueidan.com/blog/svg-tips-for-designers/)
+- [SVG-NOW. SVG Optimizer for Adobe Illustrator](https://github.com/svg/svgo)
+- [SVGO Compressor for Sketch](https://github.com/sketch-hq/svgo-compressor)
+- [SVGOMG – svgo gui](https://jakearchibald.github.io/svgomg/)
+- [Оптимизация изображений](https://web.dev/explore/fast?hl=ru#optimize-your-images)
+- [WebP](https://developers.google.com/speed/webp?hl=ru)
+- [WebP encoding tool GUI for Windows](https://github.com/samuelcarreira/webPGUI)
+- [XnConvert – Image Batch Converter for Everyone](https://www.xnview.com/en/xnconvert/)
+- [Using WebP Images](https://css-tricks.com/using-webp-images/)
+- [Gifsicle](https://www.lcdf.org/gifsicle/)
+- [jpegtran](https://jpegclub.org/jpegtran/)
+- [optipng](https://optipng.sourceforge.net/)
+- [pngquant](https://pngquant.org/)
 
 ## Профессиональный Javascript, уровень 1
 
