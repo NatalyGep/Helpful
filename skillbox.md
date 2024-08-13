@@ -1,6 +1,10 @@
+
 - [Шаблонизатор twig](https://twig.symfony.com/)
 - [Шаблонизатор haml](https://haml.info/)
 - [препроцессор stylus](https://stylus-lang.com/)
+- [google webfonts helper скачать шрифты](https://gwfh.mranftl.com/fonts)
+- [шаблонизатор haml](https://haml.info/)
+- [шаблонизатор twig](https://twig.symfony.com/)
 - [проверить совместимость под все браузеры browsershots](https://browsershots.org/)
 - [realfavicongenerator](https://realfavicongenerator.net/)
 - [Инструмент прототипирования drawio](https://drawio-app.com/)
