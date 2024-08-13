@@ -2,6 +2,7 @@
 - [Шаблонизатор twig](https://twig.symfony.com/)
 - [Шаблонизатор haml](https://haml.info/)
 - [препроцессор stylus](https://stylus-lang.com/)
+- [Регистратор доменов и хостинг-провайдер RU-CENTER](https://www.nic.ru/)
 - [google webfonts helper скачать шрифты](https://gwfh.mranftl.com/fonts)
 - [шаблонизатор haml](https://haml.info/)
 - [шаблонизатор twig](https://twig.symfony.com/)
