@@ -24,6 +24,7 @@
 - [CSS display Property](https://www.w3schools.com/cssref/pr_class_display.asp)
 - [Как находить те или иные файлы в верстке - статья](https://docs.google.com/document/d/104paqpAAxxY73K_UbnPSXdCoc0ESLtfgfx-U705pKn4/edit)
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [squoosh сжатие картинок](https://squoosh.app/)
 - [Как работать с фоновыми картинками в CSS](https://skillbox.ru/media/base/kak_rabotat_s_fonovymi_kartinkami_v_css/)
 - [Какой формат изображений больше подходит вашему сайту?](https://webformyself.com/kakoj-format-izobrazhenij-bolshe-podxodit-vashemu-sajtu/)
 - [Как правильно “делать” семантику](https://niktariy.medium.com/%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D1%83-c6c20f26b776)
