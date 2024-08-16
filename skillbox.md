@@ -1,6 +1,7 @@
 
 - [Шаблонизатор twig](https://twig.symfony.com/)
 - [Шаблонизатор haml](https://haml.info/)
+- [Курс по слепому методу печати](https://www.ratatype.com/ru/)
 - [препроцессор stylus](https://stylus-lang.com/)
 - [Регистратор доменов и хостинг-провайдер RU-CENTER](https://www.nic.ru/)
 - [google webfonts helper скачать шрифты](https://gwfh.mranftl.com/fonts)
