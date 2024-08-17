@@ -6,7 +6,7 @@
 - [Регистратор доменов и хостинг-провайдер RU-CENTER](https://www.nic.ru/)
 - [google webfonts helper скачать шрифты](https://gwfh.mranftl.com/fonts)
 - [шаблонизатор haml](https://haml.info/)
-- [jsonplaceholder для проверки запросов]https://jsonplaceholder.typicode.com/()
+- [jsonplaceholder для проверки запросов](https://jsonplaceholder.typicode.com/)
 - [шаблонизатор twig](https://twig.symfony.com/)
 - [проверить совместимость под все браузеры browsershots](https://browsershots.org/)
 - [realfavicongenerator](https://realfavicongenerator.net/)
