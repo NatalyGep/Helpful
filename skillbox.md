@@ -37,6 +37,7 @@
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Вёрстка на Flexbox в CSS. Полный справочник](https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-flexbox-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B8%CC%86-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-e26662cf87e0)
 - [Оптимизация сайтов под Retina-экраны](https://pixelplus.ru/studio/stat/optimizatsiya-saytov-retina/)
+- [fontsquirrel генератор шрифтов](https://www.fontsquirrel.com/)
 - [@font-face](https://puzzleweb.ru/css/pr_font-face.php)
 - [Почему мы предпочитаем CSS(--variable) переменным SASS($variable)?](https://habr.com/ru/post/456302/)
 - [Как писать классы по БЭМ?](http://yoksel.github.io/easy-markup/bem-rules/)
